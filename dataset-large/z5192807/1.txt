@@ -1,0 +1,5 @@
+from: z5192807
+latitude: -33.9134
+message: http://dangerouslee.biz/2012/08/15/why-engineers-make-the-best-boyfriendshusbands/ \n\nLadies please pay attention!
+longitude: 151.2327
+time: 2013-05-20T10:49:26+0000

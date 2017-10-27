@@ -1,0 +1,5 @@
+latitude: -33.9052
+longitude: 151.2375
+time: 2016-10-05T11:00:55+0000
+from: z5190012
+message: To the boy in physics whoisit like C.K. or C.L. I'm pretty sure C.L.:\n\nQuadratics are hard,\nparabolas are too,\nplease please love me\ncause I luvvy luv luv you

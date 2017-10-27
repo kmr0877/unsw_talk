@@ -1,0 +1,5 @@
+longitude: 151.1704
+time: 2013-10-17T23:55:12+0000
+from: z5192889
+message: To all the beautiful girls on the Kensington campus, this song is close enough to what I want to say: You're Beautiful - James Blunt http://www.youtube.com/watch?v=oofSnsGkops
+latitude: -33.8906

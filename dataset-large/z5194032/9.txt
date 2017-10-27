@@ -1,0 +1,5 @@
+message: Dear kondo Francois, you're one charming lad aren't ya?
+from: z5194032
+time: 2016-05-15T15:24:00+0000
+latitude: -33.9164
+longitude: 151.2341

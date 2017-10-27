@@ -1,0 +1,11 @@
+password: cowboy
+courses: (2017 S1 ENGG1000, 2017 S1 ENGG1811, 2017 S1 MATH1141, 2017 S1 PHYS1131, 2017 S2 CVEN1300, 2017 S2 ENGG1400, 2017 S2 MATH1241, 2017 S2 MATS1101)
+home_latitude: -33.9217
+full_name: Leah Remini
+home_longitude: 151.0479
+zid: z5192961
+home_suburb: Punchbowl
+birthday: 1995-08-31
+program: Engineering (Hons)/Commerce
+friends: (z5190925, z5193492, z5192178, z5195721, z5195955, z5194447, z5194476, z5193413, z5195207)
+email: z5192961@unsw.edu.au

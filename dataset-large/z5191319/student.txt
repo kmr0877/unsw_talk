@@ -1,0 +1,11 @@
+program: Eng (Hons) / MBiomedE
+friends: (z5199857, z5196672, z5194753, z5198588, z5191405, z5197433, z5191894, z5193334, z5190622, z5195955, z5197499, z5195859, z5192453, z5198193, z5199509)
+full_name: Pamela Anderson
+courses: (2017 S1 COMP1911, 2017 S1 ENGG1000, 2017 S1 MATH1131, 2017 S1 PHYS1131, 2017 S2 COMP1511, 2017 S2 ELEC1111, 2017 S2 MATH1231, 2017 S2 PHYS1231)
+birthday: 1994-02-23
+home_latitude: -33.8418
+home_suburb: Lavender Bay
+email: z5191319@unsw.edu.au
+home_longitude: 151.2178
+password: winner
+zid: z5191319

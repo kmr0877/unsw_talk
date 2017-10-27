@@ -1,0 +1,5 @@
+longitude: 151.2032
+time: 2013-10-24T23:08:33+0000
+from: z5190851
+message: Admin is almost ready to graduate. Did someone want to take over?
+latitude: -33.8478

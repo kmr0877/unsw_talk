@@ -1,0 +1,5 @@
+message: Any white girls who'd wanna date an Asian?
+latitude: -34.0436
+longitude: 151.1215
+from: z5194606
+time: 2016-04-26T03:48:57+0000

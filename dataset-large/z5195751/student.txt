@@ -1,0 +1,11 @@
+email: z5195751@unsw.edu.au
+home_longitude: 150.8394
+password: apollo
+program: Commerce
+full_name: Mary Carey
+friends: (z5193856, z5196613, z5190867, z5190851, z5196823, z5192557, z5199230, z5196265, z5194476, z5196686, z5197499, z5195437, z5191125, z5195882, z5191451)
+birthday: 1999-09-11
+home_latitude: -33.9382
+home_suburb: Horningsea Park
+zid: z5195751
+courses: (2017 S1 ACCT1501, 2017 S1 ECON1101, 2017 S1 ECON1203, 2017 S1 FINS1613, 2017 S2 COMP1511, 2017 S2 MATH1081, 2017 S2 MATH1131, 2017 S2 MGMT1001)

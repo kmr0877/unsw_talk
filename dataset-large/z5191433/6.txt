@@ -1,0 +1,5 @@
+message: Dear the pretty Asian lady working at Stellini Pasta Bar, are you single?
+longitude: 151.2203
+from: z5191433
+latitude: -33.9155
+time: 2016-09-22T11:40:34+0000

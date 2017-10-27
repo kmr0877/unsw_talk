@@ -1,0 +1,5 @@
+message: Nivaaz Kaur. I know the spring constant for my mattress. Wanna take some data?\n\nLove \nL F
+from: z5195219
+longitude: 151.2203
+latitude: -33.9131
+time: 2016-08-22T15:45:58+0000

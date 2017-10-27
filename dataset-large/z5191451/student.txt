@@ -1,0 +1,11 @@
+birthday: 1995-10-31
+home_longitude: 151.1668
+program: Engineering (Honours)
+password: trustno1
+full_name: Mary Bono
+zid: z5191451
+friends: (z5191966, z5192807, z5194730, z5198713, z5197249, z5194476, z5197499, z5190938, z5195751, z5194407)
+courses: (2017 S2 COMP1511, 2017 S2 ENGG1000, 2017 S2 MATH1081, 2017 S2 MATH1131)
+email: z5191451@unsw.edu.au
+home_latitude: -33.7969
+home_suburb: Chatswood West

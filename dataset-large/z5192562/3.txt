@@ -1,0 +1,5 @@
+from: z5192562
+longitude: 151.2267
+latitude: -33.9136
+time: 2015-04-06T10:18:51+0000
+message: :)

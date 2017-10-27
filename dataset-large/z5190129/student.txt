@@ -1,0 +1,11 @@
+home_latitude: -33.9599
+zid: z5190129
+home_suburb: Carlton
+program: Engineering (Honours)
+full_name: Rick Husband
+birthday: 1995-07-15
+password: money
+friends: (z5199892, z5195078, z5198713, z5195265)
+email: z5190129@unsw.edu.au
+home_longitude: 151.1166
+courses: (2017 S1 ENGG1000, 2017 S1 ENGG1811, 2017 S1 MATH1141, 2017 S1 PHYS1121, 2017 S2 ELEC1111, 2017 S2 MATH1081, 2017 S2 MATH1241, 2017 S2 MMAN1300)

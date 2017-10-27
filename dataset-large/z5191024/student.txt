@@ -1,0 +1,9 @@
+zid: z5191024
+full_name: Garry Trudeau
+program: Media Arts (Hons) / Comp Sci
+birthday: 1998-09-20
+friends: (z5196144, z5192932, z5191435, z5198186, z5197040, z5199292, z5193868, z5195803, z5194069, z5193413, z5199509)
+home_suburb: Thornleigh
+courses: (2017 S1 ADAD1001, 2017 S1 COMP1511, 2017 S1 MATH1131, 2017 S1 SOMA1001, 2017 S2 ADAD1002, 2017 S2 MATH1231, 2017 S2 SAHT1102, 2017 S2 SOMA1002)
+email: z5191024@unsw.edu.au
+password: jason

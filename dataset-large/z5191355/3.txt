@@ -1,0 +1,5 @@
+from: z5191355
+message: Raymond Lau,\nI love it when your love letter comes up and everyone tags you
+longitude: 151.2240
+latitude: -33.9255
+time: 2016-10-03T10:48:09+0000

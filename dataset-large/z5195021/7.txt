@@ -1,0 +1,5 @@
+message: Where are you, Andy the Tarzan?\n\nI might have changed my mind about exchanging numbers.\n\nTarzan's Wife
+longitude: 151.1137
+latitude: -33.9299
+time: 2016-09-10T06:38:27+0000
+from: z5195021

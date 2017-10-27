@@ -1,0 +1,5 @@
+longitude: 151.2313
+message: KEO\nthank you were kind and sweet to me to me in a bad time. xx
+from: z5192453
+time: 2016-04-18T04:57:20+0000
+latitude: -33.9082

@@ -1,0 +1,5 @@
+time: 2016-05-12T08:36:50+0000
+longitude: 151.2047
+latitude: -33.8558
+from: z5191319
+message: I'm an Indian engineer looking for an Asian lady who is not Clare Giang.\nThanks! Drop some hints for me and I'll drop something more than just hints for you

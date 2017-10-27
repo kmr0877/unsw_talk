@@ -1,0 +1,5 @@
+longitude: 151.2356
+message: I'm going on my first date ever in 2 weeks time. Any ideas on what to talk about OMG
+from: z5192222
+time: 2016-09-09T03:29:28+0000
+latitude: -33.9091

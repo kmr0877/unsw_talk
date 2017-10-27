@@ -1,0 +1,3 @@
+message: Freedom is slavery
+from: z5194910
+time: 2016-05-16T12:07:06+0000

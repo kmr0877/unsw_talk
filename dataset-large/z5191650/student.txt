@@ -1,0 +1,11 @@
+birthday: 1996-04-14
+courses: (2017 S1 COMP1511, 2017 S1 ENGG1000, 2017 S1 MATH1131, 2017 S2 BIOM1010, 2017 S2 ENGG1000, 2017 S2 MATH1131, 2017 S2 PHYS1121)
+email: z5191650@unsw.edu.au
+home_longitude: 151.0781
+full_name: Lesley Flood
+home_suburb: Denistone West
+password: alex
+home_latitude: -33.7963
+program: Engineering (Honours)
+zid: z5191650
+friends: (z5194790, z5191841, z5194755, z5194476, z5197302, z5192430, z5192543, z5191219, z5196020)

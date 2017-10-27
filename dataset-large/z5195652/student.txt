@@ -1,0 +1,8 @@
+friends: (z5196602, z5194753, z5195998, z5190925, z5195437, z5192613, z5192905, z5197740, z5190037, z5198942, z5199025)
+zid: z5195652
+email: z5195652@unsw.edu.au
+courses: (2017 S1 MATH1081, 2017 S1 MATH1141, 2017 S1 PHYS1131, 2017 S1 SCIF1121, 2017 S2 ECON1101, 2017 S2 ENGG1811, 2017 S2 MATH1241, 2017 S2 PHYS1231)
+full_name: Tom Coverdale
+birthday: 1999-02-08
+password: florida
+program: Advanced Mathematics (Honours)

@@ -1,0 +1,5 @@
+message: Ruth Yelam Kim your always leaving uni or going to a class man i wanna root you
+from: z5190925
+longitude: 151.2130
+time: 2013-04-25T08:25:24+0000
+latitude: -33.8556

@@ -1,0 +1,11 @@
+program: Economics/Advanced Maths(Hons)
+email: z5194367@unsw.edu.au
+home_longitude: 151.0805
+birthday: 1997-04-12
+zid: z5194367
+friends: (z5195265, z5195151, z5199175, z5192557, z5195484, z5195834, z5196848, z5198422, z5198762, z5195078, z5198307)
+courses: (2017 S1 ECON1101, 2017 S1 FINS1613, 2017 S1 MATH1141, 2017 S1 SCIF1121, 2017 S2 COMP1511, 2017 S2 ECON1102, 2017 S2 MATH1081, 2017 S2 MATH1241)
+password: super
+full_name: Jason Lezak
+home_latitude: -33.8395
+home_suburb: Rhodes

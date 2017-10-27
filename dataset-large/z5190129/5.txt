@@ -1,0 +1,5 @@
+longitude: 151.1992
+latitude: -33.9087
+from: z5190129
+message: My girlfriend doesn't respect harambe. What's the best possible action I should take?
+time: 2016-08-19T06:49:37+0000

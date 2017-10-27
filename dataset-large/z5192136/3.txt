@@ -1,0 +1,5 @@
+latitude: -33.8576
+longitude: 151.1444
+message: Andrew Shim, your campness and utter lack of ability to act like a regular human being is so adorable.
+from: z5192136
+time: 2013-10-02T06:10:39+0000

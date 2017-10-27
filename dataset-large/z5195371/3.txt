@@ -1,0 +1,5 @@
+latitude: -33.9186
+message: To UNSW Hall's Sexy Treasurer,\nI'd love for you to inspect my assets ;)\nxoxo\n-girl looking for love at the hall
+time: 2016-04-25T15:10:25+0000
+longitude: 151.2313
+from: z5195371

@@ -1,0 +1,10 @@
+birthday: 1998-12-30
+zid: z5193922
+courses: (2017 S1 ENGG1000, 2017 S1 ENGG1811, 2017 S1 MATH1141, 2017 S1 PHYS1131, 2017 S2 ELEC1111, 2017 S2 MATH1231, 2017 S2 MMAN1300, 2017 S2 SOLA1070)
+program: Engineering (Honours)
+home_latitude: -33.8794
+full_name: Yuri Malenchenko
+friends: (z5199857, z5199243, z5198525, z5194682, z5199797, z5196170, z5199544, z5197740, z5195437, z5195108)
+email: z5193922@unsw.edu.au
+home_longitude: 151.2197
+password: lover

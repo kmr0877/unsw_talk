@@ -1,0 +1,11 @@
+courses: (2017 S2 COMP1511, 2017 S2 ENGG1000, 2017 S2 MATH1131, 2017 S2 PHYS1131)
+password: bill
+birthday: 1997-11-17
+full_name: Gloria Trevi
+home_suburb: South Hurstville
+email: z5193988@unsw.edu.au
+program: Engineering (Honours)
+zid: z5193988
+home_longitude: 151.1013
+home_latitude: -33.9696
+friends: (z5195371, z5195826, z5198491, z5191219, z5192178, z5196209, z5195484, z5193373, z5190774, z5199149)

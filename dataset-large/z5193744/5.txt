@@ -1,0 +1,5 @@
+latitude: -33.9090
+time: 2016-06-16T09:34:53+0000
+from: z5193744
+message: Lovely looking lady who stopped off at Eastgardens before uni... hope you had a nice shop :)
+longitude: 151.2257

@@ -1,0 +1,5 @@
+latitude: -33.9704
+message: Who the hell is yatz and can someone show me his ass?
+from: z5191435
+longitude: 151.2374
+time: 2013-08-13T08:07:18+0000

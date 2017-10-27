@@ -1,0 +1,11 @@
+home_latitude: -33.9551
+courses: (2017 S2 COMP2121, 2017 S2 ELEC2133, 2017 S2 GENL0231, 2017 S2 MATH2859, 2017 S2 SOLA2053)
+program: Exchange Program
+friends: (z5198763, z5196487, z5199672, z5198917, z5199953, z5194151, z5191758, z5190375, z5197740, z5197249, z5198762, z5195751, z5193006)
+birthday: 1995-07-02
+zid: z5193856
+password: trustno1
+home_suburb: Kyeemagh
+full_name: Todd Petit
+email: z5193856@unsw.edu.au
+home_longitude: 151.1594

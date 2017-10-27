@@ -1,0 +1,11 @@
+password: 6969
+email: z5194606@unsw.edu.au
+friends: (z5193089, z5192543, z5191219)
+home_suburb: Caringbah
+program: Eng (Hons) / MBiomedE
+full_name: Debra Messing
+birthday: 1995-07-31
+home_longitude: 151.1215
+zid: z5194606
+home_latitude: -34.0436
+courses: (2017 S1 CHEM1001, 2017 S1 ENGG1000, 2017 S1 MATH1131, 2017 S1 PHYS1121, 2017 S2 BIOM1010, 2017 S2 COMP1511, 2017 S2 MATH1231, 2017 S2 MMAN1300)

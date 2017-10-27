@@ -1,0 +1,11 @@
+home_latitude: -33.9106
+home_suburb: University Of New South Wales
+zid: z5190622
+password: guitar
+birthday: 1998-12-25
+courses: (2017 S1 ENGG1000, 2017 S1 ENGG1811, 2017 S1 MATH1131, 2017 S1 PHYS1121, 2017 S2 CHEM1011, 2017 S2 CVEN1300, 2017 S2 ENGG1400, 2017 S2 MATH1231)
+email: z5190622@unsw.edu.au
+full_name: Jacques Rogge
+home_longitude: 151.2218
+program: Engineering (Honours)
+friends: (z5195382, z5197798, z5191520, z5197114, z5191319, z5191710)

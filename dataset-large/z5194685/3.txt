@@ -1,0 +1,5 @@
+longitude: 150.7653
+time: 2013-06-26T00:30:34+0000
+message: Jonathan Chan. You are such a funny guy..I love your smile and I also just discovered your stuff on YouTube! <3
+from: z5194685
+latitude: -34.0450

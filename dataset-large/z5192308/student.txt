@@ -1,0 +1,11 @@
+home_suburb: Willoughby
+friends: (z5197755, z5194081, z5199506, z5198496, z5196757, z5191674, z5199900, z5192924, z5198093)
+password: forever
+full_name: Deece Eckstein
+home_latitude: -33.7915
+email: z5192308@unsw.edu.au
+program: Information Technology
+zid: z5192308
+courses: (2017 S2 COMP8506, 2017 S2 COMP9020, 2017 S2 COMP9021, 2017 S2 COMP9024, 2017 S2 COMP9032, 2017 S2 COMP9311, 2017 S2 COMP9321, 2017 S2 COMP9331, 2017 S2 COMP9336, 2017 S2 COMP9444, 2017 S2 COMP9511)
+home_longitude: 151.1982
+birthday: 1997-10-07

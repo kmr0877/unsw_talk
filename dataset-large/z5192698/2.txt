@@ -1,0 +1,5 @@
+latitude: -33.9194
+from: z5192698
+time: 2013-05-12T13:57:37+0000
+message: Anita Assaad, you should come to more PSYC2061 lectures because gosh you're pretty. Seeing you there makes those boring lectures bearable.
+longitude: 151.2025

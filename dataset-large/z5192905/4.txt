@@ -1,0 +1,5 @@
+latitude: -33.9081
+from: z5192905
+message: Kate.\n\nYou make a guy wish he was a tall Spanish stranger with long curly hair.
+time: 2013-11-21T13:03:30+0000
+longitude: 151.2220

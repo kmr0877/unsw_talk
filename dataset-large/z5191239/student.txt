@@ -1,0 +1,11 @@
+home_suburb: Kingsford
+birthday: 1994-08-20
+full_name: Heidi Klum
+home_latitude: -33.9345
+friends: (z5194682, z5190618, z5193978, z5195785)
+password: smokey
+email: z5191239@unsw.edu.au
+home_longitude: 151.2230
+program: Mat Sci and Eng
+zid: z5191239
+courses: (2015 S1 CHEM1031, 2015 S1 ENGG1811, 2015 S1 MATH1131, 2015 S1 PHYS1131, 2015 S2 ENGG1000, 2015 S2 MATH1131, 2015 S2 MATS1192, 2015 S2 PHYS1121, 2017 S1 ENGG1811, 2017 S1 MATH1131, 2017 S1 MATS1192, 2017 S2 CHEM1011, 2017 S2 MATH1131)

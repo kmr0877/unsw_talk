@@ -1,0 +1,5 @@
+message: How many UNSW ladies out there like guys with red hair? Call this a social experiment...
+time: 2013-09-03T07:33:57+0000
+from: z5191674
+latitude: -34.0295
+longitude: 151.0676

@@ -1,0 +1,5 @@
+latitude: -33.8522
+time: 2016-05-04T04:35:32+0000
+longitude: 151.2360
+message: could a physio student ever go out with someone studying fine arts?
+from: z5190375

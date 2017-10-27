@@ -1,0 +1,5 @@
+from: z5194354
+message: I am sorry to say this is not a love post, lol but rather a case of  lost & found. If any one happens to know this person, kindly buzz me. I found this ID card yesterday lying on the ground near the business school around 8PM. Thanks!
+time: 2015-10-14T23:28:37+0000
+latitude: -33.8611
+longitude: 151.2269

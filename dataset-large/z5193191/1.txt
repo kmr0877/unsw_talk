@@ -1,0 +1,5 @@
+longitude: 151.0878
+from: z5193191
+latitude: -34.0508
+time: 2013-05-10T05:41:16+0000
+message: To the hipster guy who studies media and is tall with brown-blonde hair... I think I fell in love with you.

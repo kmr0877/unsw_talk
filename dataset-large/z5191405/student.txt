@@ -1,0 +1,11 @@
+home_latitude: -33.6672
+zid: z5191405
+full_name: Piotr Anderszewski
+courses: (2014 S2 ELEC9722, 2015 S1 ELEC9723, 2015 X1 ELEC9721, 2016 S1 TELE9757, 2017 S1 GSOE8112, 2017 S1 GSOE9810, 2017 S2 COMP9517)
+birthday: 1999-09-17
+program: Engineering Science
+home_longitude: 151.2005
+friends: (z5191319, z5194994, z5199544, z5197104, z5198207, z5197178, z5199833, z5192698, z5199390, z5197014)
+password: crystal
+home_suburb: Duffys Forest
+email: z5191405@unsw.edu.au

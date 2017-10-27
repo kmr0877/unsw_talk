@@ -1,0 +1,5 @@
+latitude: -33.8880
+message: Does anyone know a Talia doing ARTS
+time: 2016-04-27T20:58:07+0000
+longitude: 151.2822
+from: z5193782

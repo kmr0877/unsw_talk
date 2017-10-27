@@ -1,0 +1,5 @@
+from: z5195309
+longitude: 151.2330
+time: 2016-06-15T13:50:15+0000
+message: To the girl on the 895 sitting opposite me listening to music through her purple headphones whilst putting on lip balm, you are amazingly cute. You had a flower patterned bag, but you're the only flower i see.
+latitude: -33.9850

@@ -1,0 +1,5 @@
+longitude: 151.2210
+from: z5191985
+message: Greetings lovers, my name is Kategari and I will be your new admin. Expect the possibility of more frequent letters being published.
+latitude: -33.9633
+time: 2016-04-16T02:05:27+0000

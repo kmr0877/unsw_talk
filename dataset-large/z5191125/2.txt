@@ -1,0 +1,5 @@
+from: z5191125
+longitude: 150.7059
+message: Francis in the FASS office... YUM
+latitude: -34.1808
+time: 2013-04-15T21:08:29+0000

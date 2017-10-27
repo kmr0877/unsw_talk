@@ -1,0 +1,5 @@
+longitude: 151.2808
+time: 2016-09-05T02:09:45+0000
+from: z5192698
+message: The cute curry chick with glasses in the Tuesday arvo Chem lab.  \nAre you copper, coz I can Cu in a relationship with me ;)
+latitude: -33.8851

@@ -1,0 +1,5 @@
+from: z5193801
+latitude: -33.9114
+longitude: 151.2525
+message: To Perl who works at the Kingsford Legal Centre. Your smile made me forget the legal advice I was given. Catch up over coffee to refresh my memory?
+time: 2014-01-02T09:32:07+0000

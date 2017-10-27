@@ -1,0 +1,5 @@
+from: z5191540
+latitude: -33.8131
+time: 2013-05-27T11:13:05+0000
+longitude: 150.9955
+message: Dear UNSW Love Letters - am hoping someone knows the name of the cute guy who does International Studies and works at the  Fred Perry store in The Strand. I'd like to buy him a coffee and show him how that shirt/sweater combo turned out :)

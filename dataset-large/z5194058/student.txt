@@ -1,0 +1,11 @@
+birthday: 1997-11-21
+zid: z5194058
+friends: (z5191435, z5194926, z5193483, z5190995, z5192027, z5198041)
+home_longitude: 151.1286
+home_latitude: -33.9860
+email: z5194058@unsw.edu.au
+full_name: Princess Victoria
+password: iwantu
+program: Engineering (Honours)
+courses: (2017 S2 ENGG1000, 2017 S2 ENGG1811, 2017 S2 MATH1131, 2017 S2 PHYS1121)
+home_suburb: Carss Park

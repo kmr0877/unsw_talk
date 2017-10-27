@@ -1,0 +1,5 @@
+longitude: 151.2334
+from: z5193868
+message: Note from the Admin: If there is an issue with the page or with your letter not appearing, please inbox. We can work it out that way :)
+time: 2013-04-14T05:49:48+0000
+latitude: -33.9203

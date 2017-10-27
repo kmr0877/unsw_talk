@@ -1,0 +1,5 @@
+latitude: -34.2511
+longitude: 150.5292
+message: hellsoc should be renamed as machinesoc ;)
+from: z5190012
+time: 2013-04-29T23:04:46+0000

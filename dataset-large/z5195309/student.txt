@@ -1,0 +1,9 @@
+friends: (z5199023, z5196834, z5191657, z5194354, z5190856, z5193413, z5192453, z5191289)
+courses: (2017 S1 ACCT1501, 2017 S1 COMP1511, 2017 S1 ECON1101, 2017 S1 MATH1131, 2017 S2 COMP1521, 2017 S2 ECON1102, 2017 S2 MATH1231, 2017 S2 MGMT1001)
+password: john
+program: Engineering (Hons)/Commerce
+zid: z5195309
+home_suburb: Pagewood
+email: z5195309@unsw.edu.au
+full_name: Erin Brockovich
+birthday: 1999-07-16

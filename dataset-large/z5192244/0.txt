@@ -1,0 +1,5 @@
+from: z5192244
+latitude: -33.8636
+time: 2013-03-27T07:07:14+0000
+message: There is this one girl in my print making class and she was wearing overalls the other day... i think her name is rachel but if anyone knows her can you please tell her she has the most beautiful rosy cheeks and amazing blue eyes! Call me :)
+longitude: 151.2288

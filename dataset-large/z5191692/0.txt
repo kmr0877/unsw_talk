@@ -1,0 +1,5 @@
+latitude: -33.9994
+from: z5191692
+message: To the girl who came top 4 in last weeks actuarial soc integration bee: You have an amazing body and an even more amazing brain. Would you like to integrate me into your life?
+longitude: 151.1381
+time: 2013-04-04T00:35:48+0000

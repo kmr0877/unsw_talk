@@ -1,0 +1,5 @@
+longitude: 151.2341
+time: 2013-10-10T00:52:24+0000
+message: To the hot tall girl who works at subway. I come in for lunch just so I can say hi to you
+latitude: -33.9194
+from: z5195309

@@ -1,0 +1,5 @@
+longitude: 151.1875
+message: Every time I see you I force myself to be cheerful. I can't let you see the anxiety you provoke in me because it would hurt you to know :'(
+from: z5194542
+latitude: -33.8958
+time: 2016-09-02T16:46:26+0000

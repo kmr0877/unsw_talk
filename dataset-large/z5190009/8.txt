@@ -1,0 +1,5 @@
+from: z5190009
+longitude: 151.1698
+latitude: -33.8462
+message: How likely would a guy approach me if I sat alone in the quad? Thirst is not real
+time: 2016-08-29T08:15:09+0000

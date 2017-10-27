@@ -1,0 +1,11 @@
+password: brazil
+friends: (z5190012, z5198821, z5194606, z5190375, z5196465, z5198579, z5199604)
+courses: (2017 S1 ELEC1111, 2017 S1 ENGG1000, 2017 S1 MATH1131, 2017 S1 PHYS1121, 2017 S2 CVEN1300, 2017 S2 ENGG1400, 2017 S2 ENGG1811, 2017 S2 MATH1231)
+email: z5195371@unsw.edu.au
+birthday: 1999-04-25
+full_name: Jenna Elfman
+home_longitude: 151.1246
+program: Engineering (Honours)
+home_suburb: Macquarie Park
+zid: z5195371
+home_latitude: -33.7715

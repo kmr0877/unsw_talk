@@ -1,0 +1,5 @@
+message: To that beautiful halfie guy at Monday's CHEM1041 lecture wearing that bright blue sweater:\nYou excite me more than electrons during UV-Vis spectroscopy.\nLove, a geeky Chem Eng student.
+from: z5194151
+latitude: -34.0561
+longitude: 150.7433
+time: 2016-08-11T14:12:03+0000

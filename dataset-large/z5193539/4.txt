@@ -1,0 +1,5 @@
+message: I think I've developed a crush on Richard Buckland...\nSomeone send help :(
+latitude: -33.9257
+from: z5193539
+longitude: 151.2290
+time: 2016-09-19T13:30:52+0000

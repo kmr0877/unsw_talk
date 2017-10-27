@@ -1,0 +1,5 @@
+from: z5192357
+longitude: 151.2258
+time: 2016-08-13T12:58:25+0000
+latitude: -33.9204
+message: Dear Maryjo Molinar,\nYou are absolutely beautiful. You are the only reason uni is worth coming to. Are you single by any chance?

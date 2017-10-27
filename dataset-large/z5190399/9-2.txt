@@ -1,0 +1,3 @@
+from: z5197855
+time: 2016-08-27T07:03:06+0000
+message: z5192081 not a dragonite tho

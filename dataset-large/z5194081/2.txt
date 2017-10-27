@@ -1,0 +1,5 @@
+longitude: 151.0611
+from: z5194081
+time: 2013-05-16T08:50:18+0000
+latitude: -33.9527
+message: Dear babs demonstrator. I like you. Sincerely Your secret admirer.

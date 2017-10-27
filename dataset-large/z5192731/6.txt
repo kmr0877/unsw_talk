@@ -1,0 +1,5 @@
+message: Justin Williams I heard you are a life guard. Will you save me when I drown in your love?
+longitude: 151.2386
+from: z5192731
+time: 2016-06-21T01:58:49+0000
+latitude: -33.9105

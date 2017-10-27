@@ -1,0 +1,5 @@
+time: 2016-08-05T02:43:39+0000
+latitude: -33.9141
+message: Shout out to the rich kids constantly dropping lures on campus, love you! Hahahahaha
+from: z5190126
+longitude: 151.2203

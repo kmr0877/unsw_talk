@@ -1,0 +1,11 @@
+zid: z5193047
+home_latitude: -33.9734
+program: Engineering (Honours)
+full_name: Christine Ebersole
+home_longitude: 151.1207
+home_suburb: Carlton
+courses: (2017 S1 COMP1511, 2017 S1 ENGG1000, 2017 S1 MATH1131, 2017 S1 PHYS1121, 2017 S2 BIOM1010, 2017 S2 COMP1531, 2017 S2 MATH1231, 2017 S2 MMAN1300)
+birthday: 1996-05-15
+friends: (z5192990, z5199506, z5196170, z5194910, z5199544, z5191765, z5195955, z5198352, z5195078, z5192791, z5193757)
+password: arthur
+email: z5193047@unsw.edu.au

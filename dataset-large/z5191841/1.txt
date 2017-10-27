@@ -1,0 +1,5 @@
+longitude: 151.0447
+from: z5191841
+time: 2013-08-05T00:49:47+0000
+message: stamatina gets lots of messages on this wall so i have to add one. i live in a nice apartment in the city with a bed covered in roses waiting for you... can i have yo number
+latitude: -33.8183

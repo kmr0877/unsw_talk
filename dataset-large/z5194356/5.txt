@@ -1,0 +1,5 @@
+from: z5194356
+time: 2016-09-16T03:56:57+0000
+latitude: -34.0588
+longitude: 151.1007
+message: No one ever posts about construction management and property students. Must be because we are too hot to handle. Or fugly mugs.

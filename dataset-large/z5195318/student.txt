@@ -1,0 +1,9 @@
+home_suburb: Kingsford
+birthday: 1996-10-24
+full_name: Jose Maria Aznar
+program: Advanced Mathematics (Honours)
+email: z5195318@unsw.edu.au
+password: richard
+courses: (2017 S1 CHEM1031, 2017 S1 COMP1511, 2017 S1 MATH1141, 2017 S1 SCIF1121, 2017 S2 COMP1521, 2017 S2 COMP2521, 2017 S2 MATH1081, 2017 S2 MATH1241)
+friends: (z5199573, z5191533, z5195733, z5196823, z5196233, z5191716, z5198228, z5198661, z5196020)
+zid: z5195318

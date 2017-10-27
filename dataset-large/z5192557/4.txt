@@ -1,0 +1,5 @@
+from: z5192557
+time: 2013-08-22T12:48:45+0000
+latitude: -33.9028
+longitude: 151.1767
+message: Mel Hardjono: just like your surname, i am always hard...for you

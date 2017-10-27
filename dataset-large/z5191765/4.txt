@@ -1,0 +1,5 @@
+message: To Marcus at black party from USYD, u r some hot stuff!
+time: 2016-07-28T12:56:39+0000
+longitude: 151.2380
+from: z5191765
+latitude: -33.9149

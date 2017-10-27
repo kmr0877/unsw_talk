@@ -1,0 +1,5 @@
+latitude: -33.9165
+time: 2013-08-14T03:55:42+0000
+longitude: 151.2293
+message: To Jesse from FrenchSoc,\n\nYou're hot, but I'm way too shy to actually talk to you. Thank you for existing, though.
+from: z5191491

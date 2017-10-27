@@ -1,0 +1,5 @@
+longitude: 151.2225
+from: z5190981
+time: 2016-08-15T12:03:03+0000
+message: Zaynab, dear darling. Please excuse my writing, but I can't stop my hand from shaking........
+latitude: -33.9120

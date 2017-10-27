@@ -1,0 +1,11 @@
+home_latitude: -33.7332
+home_suburb: Blackett
+zid: z5190126
+friends: (z5191966, z5195219, z5196113, z5198496, z5191535, z5196775, z5192807, z5199953, z5195882, z5199655)
+password: booboo
+courses: (2017 S1 COMP1511, 2017 S1 ELEC1111, 2017 S1 MATH1131, 2017 S1 PHYS1121, 2017 S2 ENGG1000, 2017 S2 MATH1131, 2017 S2 PHYS1121)
+home_longitude: 150.8165
+full_name: Michael Sullivan
+email: z5190126@unsw.edu.au
+program: Engineering (Honours)
+birthday: 1995-03-30

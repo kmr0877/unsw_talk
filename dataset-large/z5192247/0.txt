@@ -1,0 +1,5 @@
+longitude: 151.1537
+from: z5192247
+latitude: -33.8539
+time: 2013-04-18T13:26:37+0000
+message: To the sexy dancing monkey at the cadet macaron stall near the library, i like big bananas ;)

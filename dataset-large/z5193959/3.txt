@@ -1,0 +1,5 @@
+longitude: 151.2230
+time: 2013-08-07T23:01:51+0000
+message: Help!!! My dad wants me to get arranged marriage, but I don't. What should I do? I don't want to get married during uni or even to a guy of his choice.
+from: z5193959
+latitude: -33.9265

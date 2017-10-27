@@ -1,0 +1,5 @@
+message: Dear J.P from Law – I love you. I love you. I love you.
+longitude: 151.1579
+time: 2013-04-25T08:06:56+0000
+latitude: -33.8766
+from: z5191504

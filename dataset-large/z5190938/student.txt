@@ -1,0 +1,11 @@
+program: Computer Science and Eng
+friends: (z5192889, z5191483)
+email: z5190938@unsw.edu.au
+zid: z5190938
+birthday: 1996-06-11
+home_suburb: Colyton
+full_name: Rosie Perez
+home_longitude: 150.8031
+courses: (2016 S1 COMP9902, 2016 S2 COMP9902, 2016 S2 GSOE9400, 2017 S1 COMP9902, 2017 S2 COMP9902)
+password: booger
+home_latitude: -33.7751

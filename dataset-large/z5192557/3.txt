@@ -1,0 +1,5 @@
+message: To the girl named Stephanie in Arts3091 on Thursdays, you are really pretty and beautiful but your driving is really goddamn scary.
+longitude: 151.2243
+time: 2013-06-13T21:02:48+0000
+latitude: -33.9141
+from: z5192557

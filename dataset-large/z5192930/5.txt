@@ -1,0 +1,5 @@
+from: z5192930
+longitude: 151.2264
+message: To Christy,\n\nyou're cute. coffee sometime?\n\n- M
+latitude: -33.9148
+time: 2016-09-03T11:01:25+0000

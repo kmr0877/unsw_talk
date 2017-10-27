@@ -1,0 +1,5 @@
+message: Cameron from Fig\n\nI can't think straight around you\nProlly cuz I'm not straight to begin with ;)\nPS: I support Trump too\nCoffee sometime?
+time: 2016-08-15T09:31:32+0000
+longitude: 151.2322
+from: z5195078
+latitude: -33.9266

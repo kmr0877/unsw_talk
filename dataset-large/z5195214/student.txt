@@ -1,0 +1,11 @@
+zid: z5195214
+home_longitude: 151.2397
+full_name: Heather Locklear
+courses: (2017 S1 COMP1511, 2017 S1 ECON1101, 2017 S1 MATH1131, 2017 S1 SOMA2410, 2017 S2 DATA1001, 2017 S2 SOMA2818)
+home_latitude: -33.9088
+birthday: 1994-07-14
+email: z5195214@unsw.edu.au
+password: viking
+home_suburb: University Of New South Wales
+friends: (z5192534, z5198700, z5198410, z5190981, z5198207, z5193089, z5196864, z5197499, z5197376, z5196465, z5198575)
+program: Science

@@ -1,0 +1,5 @@
+message: To the cute white girl at the round house party, who likes Arctic Monkeys and had a Filipino friend. Let's keep in contact!
+time: 2016-07-03T05:58:07+0000
+from: z5195318
+latitude: -33.9066
+longitude: 151.2501

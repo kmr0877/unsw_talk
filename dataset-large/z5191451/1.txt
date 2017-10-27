@@ -1,0 +1,5 @@
+from: z5191451
+time: 2013-04-22T11:36:35+0000
+latitude: -33.9100
+longitude: 151.2313
+message: To: Alberto Motto Don't leave me. Otherwise I'll fail Econ1101 and then kill myself

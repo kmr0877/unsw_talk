@@ -1,0 +1,5 @@
+longitude: 151.1442
+time: 2016-06-19T19:46:31+0000
+from: z5193158
+message: Dear Lachlan Huynh\nDid u park illegally? Because damn, girl, you are fine.\n\nfrom the cute person that saw you get burned by the hill in that prac.
+latitude: -33.9306

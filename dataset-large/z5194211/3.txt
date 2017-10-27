@@ -1,0 +1,5 @@
+latitude: -33.9123
+longitude: 151.2210
+message: Dear girl in crim1010 lecture on Tuesday mornings - long blonde hair with undercut, nape of neck pierced, septum piercing, groovy overall dresses, and I'm pretty sure you have a blue laptop... You are literally my goals and I think we should be best friends.
+time: 2016-04-26T07:09:04+0000
+from: z5194211

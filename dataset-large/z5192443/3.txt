@@ -1,0 +1,5 @@
+message: What are the chances of WIE being single?
+longitude: 150.9411
+latitude: -33.9551
+time: 2016-10-06T00:56:24+0000
+from: z5192443

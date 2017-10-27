@@ -1,0 +1,5 @@
+from: z5192905
+longitude: 151.0485
+message: Jamie Goddard are you single? Coffee or a movie next Wednesday?
+time: 2016-05-24T23:51:23+0000
+latitude: -34.0405

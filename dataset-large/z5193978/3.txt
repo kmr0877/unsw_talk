@@ -1,0 +1,5 @@
+from: z5193978
+longitude: 151.2386
+message: Wished we had this at Melbourne Uni. Jelly.
+latitude: -33.9176
+time: 2013-04-06T02:09:13+0000

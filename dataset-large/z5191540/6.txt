@@ -1,0 +1,5 @@
+longitude: 150.9955
+time: 2016-08-09T12:53:20+0000
+from: z5191540
+latitude: -33.8131
+message: To the brown guy at the tea stall on Tuesday, can you wrap me up in the that long brown scarf of yours?\n\n-Secret Admirer

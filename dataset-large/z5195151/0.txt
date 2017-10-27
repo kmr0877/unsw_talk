@@ -1,0 +1,5 @@
+latitude: -33.9175
+from: z5195151
+longitude: 151.2251
+message: sonia swarup, it's time to forget the rest and be with the best.
+time: 2013-08-04T13:56:49+0000

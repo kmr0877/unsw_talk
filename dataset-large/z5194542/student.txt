@@ -1,0 +1,11 @@
+email: z5194542@unsw.edu.au
+home_latitude: -33.8478
+home_suburb: Dawes Point
+friends: (z5199023, z5197594, z5195484, z5198228, z5198575, z5190337, z5197511)
+zid: z5194542
+courses: (2016 S2 COMP9020, 2016 S2 COMP9021, 2016 S2 COMP9311, 2016 S2 GSOE9820, 2017 S1 COMP9024, 2017 S1 COMP9331, 2017 S1 COMP9334, 2017 S1 COMP9414, 2017 S2 COMP9041, 2017 S2 COMP9336, 2017 S2 COMP9444, 2017 S2 GMAT9600)
+home_longitude: 151.2131
+full_name: Job Cohen
+password: samson
+birthday: 1999-05-16
+program: Information Technology

@@ -1,0 +1,10 @@
+birthday: 1998-11-23
+home_longitude: 151.1590
+friends: (z5194753, z5199544, z5193959, z5191538, z5198307, z5192941, z5199655)
+zid: z5192731
+courses: (2017 S2 COMP9020, 2017 S2 COMP9021, 2017 S2 COMP9311, 2017 S2 GSOE9820)
+program: Information Technology
+home_latitude: -33.9658
+password: tennis
+full_name: Jon Gruden
+email: z5192731@unsw.edu.au

@@ -1,0 +1,5 @@
+longitude: 151.1146
+message: Sean Chen,\nThe back of your head is ridiculous. Damn boi that jawline too. Coffee sometime? \n\nSincerely, a girl sitting 6 rows behind you.
+latitude: -33.9158
+time: 2016-06-08T15:54:57+0000
+from: z5190618

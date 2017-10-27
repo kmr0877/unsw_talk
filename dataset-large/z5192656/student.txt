@@ -1,0 +1,11 @@
+full_name: Faye Dunaway
+home_suburb: University Of New South Wales
+friends: (z5199294, z5196684, z5198821, z5192557, z5191538, z5199509, z5195078)
+email: z5192656@unsw.edu.au
+home_latitude: -33.9206
+program: Study Abroad Program
+home_longitude: 151.2397
+birthday: 1996-12-13
+password: crystal
+courses: (2016 S2 ACCT1501, 2016 S2 TELE3113, 2016 S2 TELE4651, 2016 S2 TELE4652, 2017 S1 ECON1101, 2017 S1 ECON1202, 2017 S1 TELE3118, 2017 S1 TELE4653, 2017 S2 GSOE8124, 2017 S2 GSOE9010, 2017 S2 GSOE9210, 2017 S2 TELE9754, 2017 S2 TELE9756)
+zid: z5192656

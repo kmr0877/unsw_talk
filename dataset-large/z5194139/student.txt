@@ -1,0 +1,10 @@
+program: Engineering (Honours)
+home_longitude: 151.2548
+password: summer
+email: z5194139@unsw.edu.au
+courses: (2017 S1 ENGG1811, 2017 S1 MATH1131, 2017 S1 MATS1101, 2017 S1 PHYS1131, 2017 S2 ELEC1111, 2017 S2 ENGG1000, 2017 S2 MATH1131, 2017 S2 PHYS1131)
+birthday: 1993-12-20
+friends: (z5193598, z5192222, z5199767, z5199374, z5192183, z5192453, z5194685)
+zid: z5194139
+home_latitude: -33.8986
+full_name: Ibrahim Al-Marashi

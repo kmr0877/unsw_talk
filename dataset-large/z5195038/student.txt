@@ -1,0 +1,11 @@
+password: power
+friends: (z5197755, z5197676, z5192279, z5197616, z5197855, z5195369)
+full_name: Reese Witherspoon
+email: z5195038@unsw.edu.au
+program: Engineering (Hons)/Commerce
+zid: z5195038
+home_suburb: Rossmore
+home_longitude: 150.7690
+courses: (2017 S1 ACCT1501, 2017 S1 ECON1101, 2017 S1 ENGG1000, 2017 S1 MATH1131, 2017 S2 ENGG1811, 2017 S2 MATH1231, 2017 S2 PHYS1121)
+home_latitude: -33.9519
+birthday: 1999-04-20

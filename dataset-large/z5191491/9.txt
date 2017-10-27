@@ -1,0 +1,5 @@
+latitude: -33.9225
+message: Don't open up that window, Don't you let out that Antidote.... My song when I get high on weed while doing math2019
+longitude: 151.2352
+from: z5191491
+time: 2016-06-27T13:47:03+0000

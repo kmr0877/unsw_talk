@@ -1,0 +1,5 @@
+latitude: -33.9163
+from: z5195313
+time: 2014-02-15T03:07:34+0000
+longitude: 151.2238
+message: I Love the Law student by the Name of Rema Hamdan !

@@ -1,0 +1,5 @@
+latitude: -33.8114
+from: z5191795
+time: 2016-05-25T04:55:28+0000
+message: Nivaaz Kaur. Was your father a thief? Because he stole the stars and put them into your eyes.\n\nLove L F
+longitude: 150.9261

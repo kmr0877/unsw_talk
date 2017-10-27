@@ -1,0 +1,3 @@
+from: z5194582
+message: Ye ok i dont go to finance
+time: 2016-06-15T01:21:08+0000

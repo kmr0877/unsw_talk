@@ -1,0 +1,5 @@
+from: z5192534
+time: 2013-05-13T10:29:08+0000
+longitude: 151.2306
+message: There are two types of females: ones that are ugly or ones that are taken.
+latitude: -33.9073

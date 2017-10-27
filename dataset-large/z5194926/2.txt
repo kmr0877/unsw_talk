@@ -1,0 +1,5 @@
+message: I'm just a guy looking for a girl to play Tetris battle late at night with me. Tag whoever is a god at tetris.
+time: 2016-07-27T23:34:57+0000
+latitude: -33.9173
+from: z5194926
+longitude: 151.2221

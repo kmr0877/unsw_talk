@@ -1,0 +1,11 @@
+zid: z5190618
+home_suburb: Hurstville Westfield
+home_latitude: -33.9158
+friends: (z5193191, z5192132, z5193868, z5193592, z5192889, z5191239, z5195108, z5193757, z5198093)
+password: nicholas
+home_longitude: 151.1146
+birthday: 1997-01-20
+email: z5190618@unsw.edu.au
+courses: (2017 S1 ENGG1000, 2017 S1 ENGG1811, 2017 S1 MATH1131, 2017 S1 PHYS1121, 2017 S2 CVEN1701, 2017 S2 GMAT1110, 2017 S2 MATH1231, 2017 S2 PHYS1121)
+full_name: Amy Yasbeck
+program: Engineering (Hons) / Surveying

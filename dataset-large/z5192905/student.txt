@@ -1,0 +1,11 @@
+home_latitude: -34.0405
+email: z5192905@unsw.edu.au
+program: Information Technology
+friends: (z5190337, z5191355, z5194139, z5197594, z5197114, z5195652, z5199953, z5190674)
+home_suburb: Loftus
+home_longitude: 151.0485
+birthday: 1997-02-06
+courses: (2017 S2 COMP9020, 2017 S2 COMP9021, 2017 S2 COMP9311, 2017 S2 GSOE9820, 2018 X1 COMP9024)
+password: tigers
+full_name: Ali Adbul Karim Madani
+zid: z5192905

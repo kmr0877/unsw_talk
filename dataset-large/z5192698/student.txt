@@ -1,0 +1,11 @@
+home_longitude: 151.2025
+friends: (z5198525, z5192613, z5193782, z5190037, z5198260, z5190621)
+full_name: Mike Weir
+zid: z5192698
+courses: (2017 S1 CHEM1031, 2017 S1 MATH1131, 2017 S1 PHYS1131, 2017 S1 SCIF1121, 2017 S2 CHEM1041, 2017 S2 ENGG1811, 2017 S2 MATH1231, 2017 S2 PHYS1160)
+password: buddy
+program: Advanced Science (Honours)
+email: z5192698@unsw.edu.au
+home_latitude: -33.9194
+home_suburb: Zetland
+birthday: 1994-08-24

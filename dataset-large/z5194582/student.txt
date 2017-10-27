@@ -1,0 +1,11 @@
+email: z5194582@unsw.edu.au
+friends: (z5198700, z5195733, z5194211, z5190399, z5193621, z5194426, z5197104, z5191674, z5193373, z5190774, z5193539)
+home_longitude: 150.8194
+program: Biomedical Engineering
+home_suburb: Bradbury
+birthday: 1995-02-23
+courses: (2016 S2 BIOM9420, 2016 S2 BIOM9432, 2016 S2 BIOM9541, 2016 S2 BIOM9650, 2017 S1 BIOM9311, 2017 S1 BIOM9332, 2017 S1 BIOM9333, 2017 S1 BIOM9711, 2017 S2 BIOM9410, 2017 S2 BIOM9561, 2017 S2 BIOM9914)
+home_latitude: -34.0933
+password: hotdog
+full_name: Barbara Walters
+zid: z5194582

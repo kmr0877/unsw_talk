@@ -1,0 +1,11 @@
+password: lakers
+home_latitude: -33.9163
+courses: (2017 S1 CHEM1031, 2017 S1 ENGG1000, 2017 S1 MATH1131, 2017 S1 PHYS1131, 2017 S2 BIOM1010, 2017 S2 ELEC1111, 2017 S2 MATH1231, 2017 S2 MMAN1300)
+zid: z5192222
+full_name: Brendan Fraser
+friends: (z5199797, z5194473, z5194139, z5192613, z5193539)
+birthday: 1995-11-02
+email: z5192222@unsw.edu.au
+home_longitude: 151.2365
+program: Eng (Hons) / MBiomedE
+home_suburb: University Of New South Wales

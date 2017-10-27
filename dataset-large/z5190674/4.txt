@@ -1,0 +1,5 @@
+from: z5190674
+message: Tanvir Islam,\nWas your father a mechanic? Then how did you get such a finely tuned body?\nYour secret admirer 😉
+longitude: 151.1118
+time: 2016-05-26T05:21:45+0000
+latitude: -34.0412

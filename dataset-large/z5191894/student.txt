@@ -1,0 +1,11 @@
+home_suburb: University Of New South Wales
+courses: (2017 S1 CHEM1011, 2017 S1 ENGG1000, 2017 S1 MATH1131, 2017 S1 PHYS1121, 2017 S2 CVEN1701, 2017 S2 ENGG1811, 2017 S2 MATH1231, 2017 S2 PHYS1121)
+home_latitude: -33.9235
+home_longitude: 151.2306
+friends: (z5192534, z5199036, z5199730, z5196113, z5199376, z5197017, z5198149, z5191483, z5197256, z5197178, z5193673, z5197114, z5191319, z5194685)
+zid: z5191894
+email: z5191894@unsw.edu.au
+birthday: 1996-03-13
+password: jessica
+full_name: Charles Ingram
+program: Engineering (Honours)

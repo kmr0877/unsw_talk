@@ -1,0 +1,5 @@
+longitude: 151.2564
+message: the white guy called bryan that I spoke to outside the quad who did chemistry engineering, you were really cute but why did you have be such a nerd!!!!!!
+time: 2013-04-18T12:37:14+0000
+latitude: -33.9298
+from: z5194023

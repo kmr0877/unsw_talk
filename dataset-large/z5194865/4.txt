@@ -1,0 +1,5 @@
+latitude: -33.8802
+message: To that brown goddess drinking boost on the 891 on tuesday afternoon and wearing a black hat.\nTie your shoe, I don’t want you falling for anybody else but me.\nYou taken ?
+time: 2016-05-11T12:39:06+0000
+longitude: 151.2312
+from: z5194865

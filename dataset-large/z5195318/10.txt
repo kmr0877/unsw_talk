@@ -1,0 +1,5 @@
+message: I think your name is alex but your friends call you greg sometimes??? you're pretty cute, explain your nickname to me over coffee sometime? :)
+longitude: 150.6715
+from: z5195318
+time: 2016-07-04T00:11:52+0000
+latitude: -34.0367

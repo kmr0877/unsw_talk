@@ -1,0 +1,5 @@
+latitude: -33.9163
+from: z5193978
+longitude: 151.1065
+message: To the first year optometry student that works at the White House, you are the most beautiful girl I've ever seen. I loved talking to you at our function but apparently you have a boyfriend already. :(
+time: 2013-04-04T04:48:14+0000

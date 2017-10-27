@@ -1,0 +1,5 @@
+time: 2016-04-24T07:42:07+0000
+message: Who is the hottest girl in CSE?
+latitude: -33.9215
+longitude: 151.2384
+from: z5191538

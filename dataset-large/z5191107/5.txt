@@ -1,0 +1,5 @@
+time: 2016-08-23T05:25:15+0000
+latitude: -33.9255
+longitude: 151.2289
+message: To the girl with the initials NC, I think I'm gay for you
+from: z5191107

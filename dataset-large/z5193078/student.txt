@@ -1,0 +1,11 @@
+zid: z5193078
+home_suburb: Denham Court
+email: z5193078@unsw.edu.au
+full_name: Amy Brenneman
+password: abc123
+birthday: 1996-06-17
+courses: (2017 S1 ENGG1000, 2017 S1 ENGG1811, 2017 S1 MATH1131, 2017 S1 PHYS1121, 2017 S2 ACCT1501, 2017 S2 ECON1101, 2017 S2 PHYS1121, 2017 S2 SOLA1070)
+home_longitude: 150.8391
+program: Engineering (Hons)/Commerce
+home_latitude: -33.9807
+friends: (z5192562, z5195765, z5199410, z5192932, z5190618)

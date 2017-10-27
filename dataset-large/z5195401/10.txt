@@ -1,0 +1,5 @@
+time: 2016-09-18T14:50:25+0000
+message: Jeremy Bond I love you! And ill talk to you soon
+latitude: -33.9078
+from: z5195401
+longitude: 151.2330

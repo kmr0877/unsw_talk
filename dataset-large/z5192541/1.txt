@@ -1,0 +1,5 @@
+longitude: 150.4457
+message: Max Gao, I'm pretty sad you left to go to USYD but i just want to say i actually like your hairy chest :)
+time: 2013-05-15T11:50:04+0000
+latitude: -33.7218
+from: z5192541

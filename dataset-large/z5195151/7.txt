@@ -1,0 +1,5 @@
+latitude: -33.8870
+from: z5195151
+message: Roses are red,\nViolets are blue,\nHowjer Gu,\nI wanna f*ck you ;)
+time: 2016-08-29T13:34:37+0000
+longitude: 151.1655

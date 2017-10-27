@@ -1,0 +1,5 @@
+message: To Dom \nwe really hit it off and im always waiting to bump into you sometime at uni if you still remember me
+from: z5191966
+latitude: -33.9227
+longitude: 151.2157
+time: 2016-09-18T06:48:13+0000

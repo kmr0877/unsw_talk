@@ -1,0 +1,3 @@
+from: z5198430
+time: 2016-06-07T04:12:34+0000
+message: z5198422 defend ur territory

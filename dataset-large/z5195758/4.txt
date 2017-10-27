@@ -1,0 +1,5 @@
+longitude: 151.2365
+time: 2016-05-13T09:38:29+0000
+message: To the gorgeous olive skin, brown haired man in the red shirt on the 399 bus from the city around 2:30. You single?
+from: z5195758
+latitude: -33.9093

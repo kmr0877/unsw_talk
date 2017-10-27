@@ -1,0 +1,5 @@
+longitude: 151.2286
+from: z5195602
+message: Ray from the village. Will you be mine?
+latitude: -33.9269
+time: 2013-11-26T10:53:55+0000

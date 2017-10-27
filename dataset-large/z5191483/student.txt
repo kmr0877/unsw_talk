@@ -1,0 +1,11 @@
+email: z5191483@unsw.edu.au
+home_suburb: Brighton-Le-Sands
+home_latitude: -33.9682
+home_longitude: 151.1553
+program: Computer Science and Eng
+birthday: 1993-10-17
+password: mine
+zid: z5191483
+full_name: Rebekah Chantay Revels
+courses: (2017 S1 COMP9902, 2017 S1 GSOE9400, 2017 S2 COMP9902)
+friends: (z5196109, z5195021, z5199672, z5193483, z5194994, z5195803, z5197740, z5191894, z5197249, z5199374, z5190938)

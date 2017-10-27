@@ -1,0 +1,5 @@
+time: 2016-07-12T04:42:33+0000
+message: tfw the number of love letters you've gotten is higher than your wam
+latitude: -33.8140
+from: z5192793
+longitude: 151.0585

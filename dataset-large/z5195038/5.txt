@@ -1,0 +1,5 @@
+message: Sammy Conn dat ass
+longitude: 150.7690
+latitude: -33.9519
+from: z5195038
+time: 2016-08-26T16:06:03+0000

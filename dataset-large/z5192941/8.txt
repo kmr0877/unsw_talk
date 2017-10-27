@@ -1,0 +1,5 @@
+latitude: -33.8627
+from: z5192941
+message: Help, I'm 21 and never had a boyfriend.
+longitude: 150.9725
+time: 2016-09-24T01:20:55+0000

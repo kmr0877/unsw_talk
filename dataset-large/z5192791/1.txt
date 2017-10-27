@@ -1,0 +1,5 @@
+latitude: -33.8792
+time: 2013-09-16T06:08:43+0000
+message: To Timstar who came over sometime ago\n\nYou look so hot today\n\nLike a sunrise
+from: z5192791
+longitude: 151.0176

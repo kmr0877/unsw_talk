@@ -1,0 +1,5 @@
+latitude: -33.7366
+time: 2016-10-04T22:10:03+0000
+from: z5194860
+message: Sugar is sweet and so r u! I luv u John Day!!!!
+longitude: 150.8078

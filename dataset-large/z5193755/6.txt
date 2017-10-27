@@ -1,0 +1,5 @@
+message: To all the lesbian and bi girls, I hope to meet you someday at uni!
+from: z5193755
+longitude: 151.0559
+time: 2016-08-22T05:28:22+0000
+latitude: -33.7515

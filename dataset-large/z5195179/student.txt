@@ -1,0 +1,11 @@
+home_suburb: Canterbury
+zid: z5195179
+program: Computer Science and Eng
+email: z5195179@unsw.edu.au
+birthday: 1996-05-22
+home_latitude: -33.9161
+friends: (z5192543, z5191238)
+home_longitude: 151.1210
+password: 4128
+full_name: Jennifer Aniston
+courses: (2014 S1 COMP9153, 2014 S1 COMP9902, 2014 S2 COMP9161, 2014 S2 COMP9902, 2014 S2 GSOE9400, 2015 S1 COMP9902, 2015 S2 COMP9902, 2016 S1 COMP9902, 2016 S2 COMP9902, 2017 S1 COMP9902, 2017 S2 COMP9902)

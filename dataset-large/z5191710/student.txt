@@ -1,0 +1,11 @@
+password: jessica
+email: z5191710@unsw.edu.au
+home_longitude: 151.2264
+courses: (2017 S1 COMP9020, 2017 S1 COMP9021, 2017 S1 COMP9311, 2017 S1 COMP9414, 2017 S2 COMP9024, 2017 S2 COMP9331, 2017 S2 GSOE9210, 2017 S2 GSOE9820)
+zid: z5191710
+friends: (z5190443, z5194211, z5193744, z5190622, z5199351, z5190621, z5197616, z5198160, z5198907)
+home_latitude: -33.9140
+home_suburb: University Of New South Wales
+full_name: Ethan Hawke
+birthday: 1994-04-08
+program: Information Technology

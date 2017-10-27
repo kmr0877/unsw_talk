@@ -1,0 +1,5 @@
+message: UNSW? More like u never sleep well.
+longitude: 151.2787
+from: z5191310
+time: 2016-08-08T14:13:14+0000
+latitude: -33.8682

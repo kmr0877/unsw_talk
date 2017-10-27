@@ -1,0 +1,5 @@
+latitude: -34.0105
+from: z5190688
+message: Is it ok to like someone who already has a boyfriend?
+longitude: 150.9058
+time: 2016-06-11T23:22:44+0000

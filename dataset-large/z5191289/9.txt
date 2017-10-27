@@ -1,0 +1,5 @@
+latitude: -33.9168
+message: tfw all the hot chicks get off the train at Redfern to go to usyd :(
+longitude: 151.2352
+from: z5191289
+time: 2016-09-23T12:37:27+0000

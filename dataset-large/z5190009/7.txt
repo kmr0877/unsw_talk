@@ -1,0 +1,5 @@
+latitude: -33.8462
+from: z5190009
+time: 2016-08-09T12:07:50+0000
+message: Dear Lavender Chen,\n\nSorry I couldn't tell you before, but I do love you.\nNow I really wish you could come back...\nI love you. I love you. I love you.\nAnd I miss you...\n\nSo please...come back when you can.\n\nS
+longitude: 151.1698

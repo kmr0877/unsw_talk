@@ -1,0 +1,11 @@
+home_longitude: 151.2224
+program: Study Abroad Program
+email: z5190046@unsw.edu.au
+zid: z5190046
+courses: (2017 S2 ATSI2004, 2017 S2 COMP3222, 2017 S2 COMP3511, 2017 S2 PSYC1111)
+password: mark
+home_suburb: University Of New South Wales
+home_latitude: -33.9254
+full_name: Gennifer Flowers
+friends: (z5197114, z5197676)
+birthday: 1994-08-20

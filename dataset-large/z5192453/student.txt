@@ -1,0 +1,11 @@
+zid: z5192453
+courses: (2017 S1 ENGG1000, 2017 S1 ENGG1811, 2017 S1 MATH1141, 2017 S1 PHYS1121, 2017 S2 CHEM1011, 2017 S2 CVEN1300, 2017 S2 ENGG1200, 2017 S2 MATH1241)
+program: Eng (Hons) / Eng Science
+email: z5192453@unsw.edu.au
+birthday: 1998-02-01
+home_latitude: -33.9384
+home_longitude: 151.1399
+full_name: Gary Gitnick
+password: chris
+home_suburb: Bardwell Valley
+friends: (z5191319)

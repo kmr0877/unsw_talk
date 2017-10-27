@@ -1,0 +1,11 @@
+home_longitude: 151.2743
+email: z5193492@unsw.edu.au
+program: Engineering (Honours)
+home_suburb: Ben Buckler
+home_latitude: -33.8830
+full_name: George P Bush
+friends: (z5191435)
+password: lakers
+birthday: 1996-07-06
+zid: z5193492
+courses: (2017 S1 COMP1911, 2017 S1 ENGG1000, 2017 S1 MATH1131, 2017 S1 PHYS1121, 2017 S2 CEIC1000, 2017 S2 CVEN1701, 2017 S2 MATH1231, 2017 S2 PHYS1121)

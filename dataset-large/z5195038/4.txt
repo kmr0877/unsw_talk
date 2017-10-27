@@ -1,0 +1,5 @@
+longitude: 150.7690
+message: Wilson Deng I heard you were a vampire in bed \nIs that true ?\n\nxoxox \nYour Future Countess
+latitude: -33.9519
+time: 2016-07-04T06:44:31+0000
+from: z5195038

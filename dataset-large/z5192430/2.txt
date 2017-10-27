@@ -1,0 +1,5 @@
+from: z5192430
+message: To the girl with blonde hair wearing training gear at the FINS2624 lecture today! You have the cutest smile, I could not pay attention to the lecture XD
+time: 2013-05-20T08:09:38+0000
+longitude: 151.2578
+latitude: -33.9205

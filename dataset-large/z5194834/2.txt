@@ -1,0 +1,5 @@
+from: z5194834
+time: 2016-09-20T22:26:14+0000
+message: To that girl who always sits alone in my first year BIOC2201 lecture, I would love to get your number and coffee sometimes? \n\nThe guy always next to you.
+longitude: 151.2311
+latitude: -33.9103

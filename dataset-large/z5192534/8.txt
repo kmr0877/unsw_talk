@@ -1,0 +1,5 @@
+longitude: 151.2261
+latitude: -33.9328
+from: z5192534
+message: Why do I have to fall in love with international students?\n\nA. Lim, coffee sometime? <3 Too bad I don't speak Mandarin :(\n\nSincerely your secret admirer, <3\n\nW.C
+time: 2016-09-01T12:21:38+0000

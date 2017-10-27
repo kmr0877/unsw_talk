@@ -1,0 +1,5 @@
+from: z5191224
+time: 2013-08-11T20:50:59+0000
+latitude: -33.8795
+longitude: 151.2253
+message: Roses are red, violets are blue. To my beautiful Anu, I don't know what the future holds, but i hope it's me and you ;)\n-JS

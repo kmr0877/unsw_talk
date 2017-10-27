@@ -1,0 +1,5 @@
+from: z5190851
+time: 2016-08-11T00:15:37+0000
+longitude: 150.9680
+latitude: -33.7833
+message: To the cute guy walking from gate 2 in a yellow shirt, do you like yellow girls? x

@@ -1,0 +1,5 @@
+latitude: -33.9190
+message: To the tall Asian guy that wears all black to uni , you're cute.
+longitude: 151.2199
+time: 2016-08-27T21:28:29+0000
+from: z5193089

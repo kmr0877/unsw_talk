@@ -1,0 +1,11 @@
+email: z5193989@unsw.edu.au
+home_latitude: -33.7272
+friends: (z5193922, z5194682, z5199797, z5194211, z5192178, z5198268, z5193047, z5194567, z5199360, z5194685)
+home_longitude: 151.0893
+birthday: 1994-11-24
+password: 654321
+courses: (2017 S1 ENGG1000, 2017 S1 ENGG1811, 2017 S1 MATH1131, 2017 S1 PHYS1121, 2017 S2 ELEC1111, 2017 S2 MATH1231, 2017 S2 PHYS1121, 2017 S2 SOLA1070)
+program: Engineering (Honours)
+full_name: Alexandre Daigle
+home_suburb: Normanhurst
+zid: z5193989

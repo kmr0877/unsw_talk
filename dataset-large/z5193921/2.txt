@@ -1,0 +1,5 @@
+message: To the stylish sunshine whom accepted my offer to share the bus seat from Central to Uni. You are pure gold. Aaandd I saw you twice at uni back then.
+longitude: 151.1607
+from: z5193921
+latitude: -33.9544
+time: 2016-08-20T19:05:49+0000

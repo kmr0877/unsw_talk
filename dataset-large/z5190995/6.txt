@@ -1,0 +1,5 @@
+time: 2016-09-05T00:50:54+0000
+longitude: 151.2312
+latitude: -33.9153
+message: To the cute girl with ash blonde hair who got splashed by the bus at eddy ave Friday morning,  I hope you had a great day despite that!
+from: z5190995

@@ -1,0 +1,5 @@
+longitude: 151.2295
+message: Ada Ching, I can satisfy your equation any day. Marry me? \nThe cute asian who sits behind you in maths ;) ;)
+latitude: -33.9234
+from: z5191692
+time: 2016-08-22T08:24:24+0000

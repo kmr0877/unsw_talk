@@ -1,0 +1,5 @@
+from: z5192244
+longitude: 151.2335
+message: Why doesn't anyone write me a love letter? I'm easily the hottest guy on campus.
+time: 2013-04-18T13:31:42+0000
+latitude: -33.9172

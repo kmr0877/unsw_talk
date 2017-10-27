@@ -1,0 +1,9 @@
+email: z5192183@unsw.edu.au
+password: iwantu
+zid: z5192183
+friends: (z5198216, z5197016, z5198410, z5195484, z5197798, z5197376, z5190767, z5195885)
+full_name: Mark Podlesny
+courses: (2017 S1 COMP1511, 2017 S1 ENGG1000, 2017 S1 MATH1131, 2017 S1 PHYS1131, 2017 S2 BIOM1010, 2017 S2 ELEC1111, 2017 S2 MATH1231, 2017 S2 PHYS1231)
+home_suburb: University Of New South Wales
+birthday: 1999-09-10
+program: Eng (Hons) / MBiomedE

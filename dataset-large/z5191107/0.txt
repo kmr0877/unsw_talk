@@ -1,0 +1,5 @@
+message: The only reason I liked this page, was to see if anybody wants me. So far... nothing.
+latitude: -33.9255
+longitude: 151.2289
+time: 2013-03-31T12:12:47+0000
+from: z5191107

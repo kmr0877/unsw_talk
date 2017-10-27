@@ -1,0 +1,5 @@
+latitude: -33.9221
+time: 2013-04-03T10:31:07+0000
+from: z5194582
+message: To the bruce-lee looking asian guy studying first year comm/computer eng? I've had a massive crush on you for ages now, I'm so glad you came to UNSW, would u like to go to the easter show with me? I'll let you butter my scotch cookies ;)
+longitude: 151.2276

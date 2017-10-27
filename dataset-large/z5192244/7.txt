@@ -1,0 +1,5 @@
+longitude: 151.2335
+time: 2016-06-03T01:34:05+0000
+latitude: -33.9238
+message: I am super curious...why are there no love letters written to the one, the only Mr. H. Smith? Do you use your magic computer-skills to intercept them before they are posted?
+from: z5192244

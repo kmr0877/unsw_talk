@@ -1,0 +1,11 @@
+friends: (z5199347, z5191504, z5197286, z5195501, z5194994, z5198410, z5198051, z5195038)
+email: z5195369@unsw.edu.au
+password: muffin
+home_suburb: Malabar
+home_latitude: -33.9728
+program: Engineering (Honours)
+full_name: Mark Richt
+zid: z5195369
+home_longitude: 151.2444
+birthday: 1997-03-02
+courses: (2017 S1 ENGG1000, 2017 S1 MATH1141, 2017 S1 PHYS1131, 2017 S1 PSYC1001, 2017 S2 CVEN1300, 2017 S2 ELEC1111, 2017 S2 ENGG1811, 2017 S2 MATH1241)

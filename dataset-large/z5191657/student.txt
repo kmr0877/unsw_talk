@@ -1,0 +1,11 @@
+zid: z5191657
+email: z5191657@unsw.edu.au
+birthday: 1999-05-28
+home_longitude: 151.1281
+full_name: Lisa Marie Presley
+friends: (z5195309, z5198700, z5190521, z5197099, z5191674, z5198307, z5191238)
+home_suburb: Earlwood
+password: rocket
+courses: (2017 S1 ENGG1811, 2017 S1 MATH1131, 2017 S1 MATS1101, 2017 S1 PHYS1121, 2017 S2 CVEN1300, 2017 S2 ENGG1000, 2017 S2 ENGG1400, 2017 S2 MATH1231)
+program: Eng (Hons) / Eng Science
+home_latitude: -33.9261

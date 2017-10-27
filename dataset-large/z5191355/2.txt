@@ -1,0 +1,5 @@
+longitude: 151.0271
+from: z5191355
+latitude: -34.0529
+time: 2016-04-16T04:45:13+0000
+message: Your first name's Lee, but you're a mighty fine white lady. Would certainly be interested in knowing what course you're doing and whatever else...\nStay classy!\n\nA distanced admirer (if I'm right).

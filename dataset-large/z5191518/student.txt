@@ -1,0 +1,11 @@
+home_suburb: Bondi
+home_latitude: -33.8953
+birthday: 1994-09-29
+full_name: Zinedine Zidane
+friends: (z5191674, z5191758, z5191566)
+program: Information Technology
+home_longitude: 151.2593
+password: ou812
+zid: z5191518
+courses: (2017 S2 COMP9020, 2017 S2 COMP9021, 2017 S2 COMP9311, 2017 S2 GSOE9820)
+email: z5191518@unsw.edu.au

@@ -1,0 +1,5 @@
+message: Willing to provide whoever wears a UNSW shirt/hood to defqon free caps!!!
+time: 2016-09-03T11:26:46+0000
+latitude: -33.9286
+longitude: 151.1265
+from: z5192279

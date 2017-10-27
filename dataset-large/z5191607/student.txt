@@ -1,0 +1,9 @@
+friends: (z5195108, z5195826)
+courses: (2016 S2 SENG1031, 2017 S1 COMP1511, 2017 S1 MATH1081, 2017 S1 MATH1131, 2017 S2 COMP1511, 2017 S2 MATH1131)
+full_name: George Papandreou
+birthday: 1998-06-14
+zid: z5191607
+email: z5191607@unsw.edu.au
+home_suburb: Beverly Hills
+program: Engineering (Honours)
+password: firebird

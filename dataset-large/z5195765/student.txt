@@ -1,0 +1,11 @@
+home_longitude: 151.2040
+home_latitude: -33.9160
+courses: (2017 S1 CVEN8100, 2017 S1 ENGG1811, 2017 S1 GMAT2500, 2017 S1 GMAT2700, 2017 S1 MATH2019, 2017 S2 CVEN2002, 2017 S2 CVEN2101, 2017 S2 GMAT2120, 2017 S2 GMAT2550)
+home_suburb: Eastlakes
+program: Engineering (Hons) / Surveying
+password: bill
+zid: z5195765
+full_name: Franz Fischler
+email: z5195765@unsw.edu.au
+birthday: 1996-06-20
+friends: (z5198260, z5197797, z5197594, z5192325, z5198051, z5193078, z5197855, z5192889)

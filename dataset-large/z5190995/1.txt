@@ -1,0 +1,5 @@
+latitude: -33.9693
+message: Emma Waite and Dom Duggan you guys make the cutest couple!!! <3 <3 <3
+longitude: 151.2352
+time: 2013-06-26T00:30:47+0000
+from: z5190995

@@ -1,0 +1,5 @@
+time: 2016-08-29T23:09:51+0000
+message: To Carina Lam,\nDespite your cold-hearted personality, your sleek, bob-cut black hair seems to draw out your beauty. \nLet me enlighten and bring out the light in you
+from: z5191435
+longitude: 151.0180
+latitude: -33.8134

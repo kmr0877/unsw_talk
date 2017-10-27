@@ -1,0 +1,11 @@
+friends: (z5198160, z5194852)
+password: animal
+home_longitude: 151.2270
+zid: z5192793
+birthday: 1993-11-29
+home_suburb: Kensington
+full_name: Jeanne Anne Schroeder
+courses: (2016 S1 CHEM1031, 2016 S1 ENGG1000, 2016 S1 MATH1131, 2016 S1 PHYS1131, 2016 S2 BIOM1010, 2016 S2 MATH1231, 2016 S2 MMAN1300, 2017 S1 COMP1511, 2017 S1 MATH2019, 2017 S1 MMAN2400, 2017 S2 ELEC1111, 2017 S2 MATH2089, 2017 S2 MMAN2300, 2017 S2 MTRN2500)
+program: Eng (Hons) / MBiomedE
+email: z5192793@unsw.edu.au
+home_latitude: -33.8993

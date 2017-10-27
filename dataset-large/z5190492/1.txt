@@ -1,0 +1,5 @@
+from: z5190492
+longitude: 151.1207
+latitude: -33.7238
+message: can someone tag that vegan chick handing out cupcakes for watching 4 minute video outside library. she's hella cute!!
+time: 2016-08-24T20:32:04+0000

@@ -1,0 +1,11 @@
+program: X-Instit UGRD (Med)
+home_latitude: -33.9860
+full_name: Szu Yu Chen
+email: z5193740@unsw.edu.au
+friends: (z5196686, z5199410, z5195826)
+password: kitty
+zid: z5193740
+birthday: 1995-04-11
+home_longitude: 151.0810
+courses: (2009 S1 GSOE9712, 2009 S2 GSOE8024, 2011 S2 ANAT3121, 2017 S2 COMP8552)
+home_suburb: Oatley

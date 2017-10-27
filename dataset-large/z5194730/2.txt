@@ -1,0 +1,5 @@
+latitude: -33.9238
+message: To Amy who went to EUGs with volleyball.\nAre you single? Cuz im diggin' ya ;)
+longitude: 151.2264
+time: 2013-08-13T13:00:04+0000
+from: z5194730

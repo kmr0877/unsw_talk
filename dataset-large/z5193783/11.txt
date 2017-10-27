@@ -1,0 +1,5 @@
+from: z5193783
+longitude: 151.2261
+time: 2016-09-28T15:35:24+0000
+latitude: -33.9166
+message: Dear Women,\nWhy do you bring up something somewhat related to the actual topic you want to talk about, before talking about what you really want to talk about?

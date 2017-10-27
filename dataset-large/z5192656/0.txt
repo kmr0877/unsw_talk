@@ -1,0 +1,5 @@
+longitude: 151.2394
+from: z5192656
+latitude: -33.9256
+time: 2013-04-14T05:32:51+0000
+message: To the girl with the red penny board in my EDST classes, i hope you bat for the same team, come and say hi next time ;), from the other lesbian in the room.

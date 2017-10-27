@@ -1,0 +1,11 @@
+courses: (2017 S2 COMP1511, 2017 S2 ENGG1000, 2017 S2 HUMS1005, 2017 S2 MATH1131)
+friends: (z5198700, z5199175, z5191310, z5191795, z5191319, z5194852)
+birthday: 1998-05-15
+zid: z5194753
+home_suburb: North Curl Curl
+home_longitude: 151.3052
+password: 1212
+home_latitude: -33.7692
+email: z5194753@unsw.edu.au
+program: Engineering (Honours)
+full_name: Lance Armstrong

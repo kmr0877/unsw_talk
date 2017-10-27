@@ -1,0 +1,5 @@
+message: To suvekcha(?) from engineering. You're pretty, i hope you're not taken. Coffee sometime? :)
+time: 2016-05-07T12:37:35+0000
+longitude: 151.2308
+latitude: -33.9273
+from: z5192932

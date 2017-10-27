@@ -1,0 +1,3 @@
+from: z5195108
+time: 2013-09-12T03:11:56+0000
+message: Yeah Shirley let's just get straight to the point

@@ -1,0 +1,11 @@
+email: z5193076@unsw.edu.au
+friends: (z5192562, z5190925, z5191483, z5190516)
+password: hunting
+zid: z5193076
+home_latitude: -33.8212
+home_longitude: 151.1926
+program: Mat Sci and Eng Hons
+full_name: Robert Redford
+home_suburb: Wollstonecraft
+courses: (2017 S1 CHEM1011, 2017 S1 ENGG1811, 2017 S1 MATH1131, 2017 S1 PHYS1121, 2017 S2 CVEN1300, 2017 S2 ENGG1000, 2017 S2 MATH1231, 2017 S2 MATS1192)
+birthday: 1998-06-19

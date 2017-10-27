@@ -1,0 +1,11 @@
+home_suburb: Luddenham
+zid: z5190454
+full_name: Hugo Chavez
+birthday: 1997-04-23
+email: z5190454@unsw.edu.au
+courses: (2017 S1 BABS1201, 2017 S1 CHEM1011, 2017 S1 MATH1041, 2017 S1 MATH1131, 2017 S2 BABS1202, 2017 S2 BIOS1101, 2017 S2 CHEM1021, 2017 S2 COMP1511)
+friends: (z5194567, z5195758, z5191451)
+home_longitude: 150.7023
+password: teresa
+home_latitude: -33.8902
+program: Life Sciences

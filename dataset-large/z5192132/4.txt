@@ -1,0 +1,5 @@
+latitude: -33.9077
+longitude: 151.2218
+message: I actually have a crush on one of your guys\nI should really rethink my life choices..!!! \nUts female student
+from: z5192132
+time: 2016-05-04T01:23:04+0000

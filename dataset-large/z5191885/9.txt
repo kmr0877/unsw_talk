@@ -1,0 +1,5 @@
+from: z5191885
+longitude: 151.1864
+latitude: -33.8264
+time: 2016-10-04T15:30:53+0000
+message: Livi from my history classes, you are the happiest person I have ever met, seeing your smile makes me weak. Maybe you can flash that smile at me over coffee sometime?

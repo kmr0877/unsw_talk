@@ -1,0 +1,5 @@
+longitude: 151.2197
+message: Dear Leon,\n\nwhy did you look so cute during kpop camp with that white shirt and gray sweater? never knew event coordinators could look this good, coffee sometime?
+time: 2016-04-16T13:17:42+0000
+from: z5193922
+latitude: -33.8794

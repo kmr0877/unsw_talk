@@ -1,0 +1,11 @@
+birthday: 1997-01-14
+password: xxxx
+full_name: Lester Holt
+zid: z5192924
+home_longitude: 150.9630
+courses: (2017 S1 ENGG1000, 2017 S1 ENGG1811, 2017 S1 MATH1131, 2017 S1 PHYS1121, 2017 S2 COMP1511, 2017 S2 CVEN1300, 2017 S2 MATH1231, 2017 S2 MATS1101)
+home_latitude: -33.8424
+program: Eng combine with Arts or Sci
+friends: (z5194926, z5198821, z5193089, z5197249, z5196421, z5197798, z5192543)
+email: z5192924@unsw.edu.au
+home_suburb: Guildford West

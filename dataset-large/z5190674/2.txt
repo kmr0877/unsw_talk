@@ -1,0 +1,5 @@
+from: z5190674
+latitude: -33.8850
+longitude: 151.1824
+message: Gawi Chan, studying Info Sys is such a cutie pie.
+time: 2016-04-27T10:10:57+0000

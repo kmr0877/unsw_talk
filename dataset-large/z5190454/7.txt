@@ -1,0 +1,5 @@
+message: To the girl on the 895 with the defqon bracelet hanging from your backpack. Will you be my raver chick on my shoulders at defqon this year? From the guy sitting next to where you were standing.
+latitude: -33.9211
+from: z5190454
+time: 2016-06-05T12:44:31+0000
+longitude: 151.2216

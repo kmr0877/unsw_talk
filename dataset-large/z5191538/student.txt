@@ -1,0 +1,11 @@
+password: ginger
+friends: (z5192731, z5196465, z5192656, z5197209, z5193868, z5194755, z5192446, z5199682, z5194860, z5199872)
+email: z5191538@unsw.edu.au
+zid: z5191538
+home_suburb: Lower Hawkesbury
+home_latitude: -33.4381
+program: Information Technology
+courses: (2017 S1 COMP9020, 2017 S1 COMP9021, 2017 S1 COMP9311, 2017 S1 COMP9414, 2017 S2 COMP4418, 2017 S2 COMP6714, 2017 S2 COMP9024, 2017 S2 COMP9331)
+birthday: 1994-05-27
+home_longitude: 151.0526
+full_name: Corinne Coman

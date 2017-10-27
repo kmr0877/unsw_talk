@@ -1,0 +1,5 @@
+longitude: 151.2332
+from: z5194211
+message: every time I go to unsw, I'm always surrounded by beautiful asian girls. it breaks my heart as a usyd student :(
+time: 2013-03-27T04:58:51+0000
+latitude: -33.9139

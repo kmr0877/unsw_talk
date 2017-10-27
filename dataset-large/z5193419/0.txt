@@ -1,0 +1,5 @@
+longitude: 151.1922
+from: z5193419
+time: 2013-03-19T11:34:53+0000
+message: My love interest doesn't go to UNSW!
+latitude: -33.9483

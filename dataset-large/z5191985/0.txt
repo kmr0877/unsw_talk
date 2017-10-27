@@ -1,0 +1,5 @@
+message: To the bubbly Indian girl in the Thursday MATH1041 lecture, you caught my eye when you were selling chocolates. I'd like to try some of you're chocolatey goodness ;)
+longitude: 151.1959
+time: 2013-05-03T03:14:11+0000
+latitude: -33.9229
+from: z5191985

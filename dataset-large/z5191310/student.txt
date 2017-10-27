@@ -1,0 +1,11 @@
+email: z5191310@unsw.edu.au
+full_name: Nikki Reed
+home_latitude: -33.4178
+zid: z5191310
+home_suburb: Wisemans Ferry
+password: heather
+birthday: 1997-06-14
+friends: (z5195401, z5199900, z5194753, z5192443, z5199175, z5192834, z5197511, z5193742, z5196465, z5193783)
+home_longitude: 150.9788
+courses: (2017 S2 COMP9020, 2017 S2 COMP9021, 2017 S2 COMP9311, 2017 S2 GSOE9820, 2018 X1 COMP9024)
+program: Information Technology

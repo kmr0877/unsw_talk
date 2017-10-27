@@ -1,0 +1,11 @@
+home_longitude: 151.2330
+email: z5193373@unsw.edu.au
+courses: (2017 S2 COMP1511, 2017 S2 ENGG1000, 2017 S2 MATH1131, 2017 S2 PHYS1131)
+friends: (z5199754, z5194926, z5197014, z5193988, z5192325, z5196233, z5196528, z5194582, z5190621, z5199025)
+zid: z5193373
+home_suburb: University Of New South Wales
+home_latitude: -33.9231
+birthday: 1999-01-27
+full_name: Jennifer Connelly
+program: Engineering (Honours)
+password: heather

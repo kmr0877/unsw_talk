@@ -1,0 +1,5 @@
+message: Erik Ostman,\nYou may have stolen my scholarship, but you have also stolen my heart \nCoffee some time? (You're paying)
+from: z5190516
+latitude: -33.9191
+longitude: 151.2245
+time: 2016-06-19T13:04:42+0000

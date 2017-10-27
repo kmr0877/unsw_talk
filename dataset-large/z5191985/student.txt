@@ -1,0 +1,11 @@
+program: Commerce / Information Systems
+password: braves
+full_name: Kate Winslet
+email: z5191985@unsw.edu.au
+friends: (z5195733)
+birthday: 1999-04-02
+home_longitude: 151.1959
+zid: z5191985
+courses: (2016 S1 ACCT1501, 2016 S1 ECON1101, 2016 S1 ECON1203, 2016 S1 MGMT1001, 2016 S2 ACCT1511, 2016 S2 ECON1102, 2016 S2 FINS1613, 2016 S2 INFS1602, 2017 S1 COMP1000, 2017 S1 FINS1612, 2017 S1 FINS2624, 2017 S1 INFS1603, 2017 S2 FINS3616, 2017 S2 INFS1609, 2017 S2 INFS2603, 2017 S2 INFS2607)
+home_latitude: -33.9229
+home_suburb: Rosebery

@@ -1,0 +1,5 @@
+longitude: 151.2336
+time: 2013-05-29T11:32:00+0000
+message: To the half cast looking asian guy wearing a grey mickey mouse jumper roaming around the quad on Monday 4pm. I can be your minnie any day ;)
+latitude: -33.9127
+from: z5193078

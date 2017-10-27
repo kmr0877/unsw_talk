@@ -1,0 +1,5 @@
+message: Rebecca Trunk why do you keep ignoring me... I just want to talk to you
+from: z5193782
+time: 2013-07-01T09:48:22+0000
+latitude: -33.9175
+longitude: 151.2294

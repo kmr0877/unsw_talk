@@ -1,0 +1,11 @@
+password: united
+courses: (2016 S2 COMP9020, 2016 S2 COMP9021, 2016 S2 COMP9311, 2016 S2 MATH5905, 2017 S1 COMP9024, 2017 S1 COMP9318, 2017 S1 COMP9414, 2017 S1 COMP9417, 2017 S2 COMP6714, 2017 S2 COMP9313, 2017 S2 COMP9418, 2017 S2 COMP9444)
+home_suburb: Erskineville
+full_name: Yannos Papantoniou
+birthday: 1996-10-31
+home_latitude: -33.8954
+home_longitude: 151.1810
+zid: z5192446
+friends: (z5199754, z5192244, z5193598, z5194139, z5196823, z5190674, z5198093, z5196020)
+email: z5192446@unsw.edu.au
+program: Information Technology

@@ -1,0 +1,5 @@
+message: To the First year Tech Guy doing Med Sci they call Jiven\nI want your Wang
+latitude: -33.9190
+from: z5193744
+time: 2013-08-11T23:31:03+0000
+longitude: 151.0827

@@ -1,0 +1,5 @@
+time: 2013-05-05T02:15:33+0000
+longitude: 151.2400
+latitude: -33.9086
+from: z5192990
+message: To my nerdy elec lab tutor, guys like you are the real reason I took this course. I love watching you fiddle with my circuits. Perhaps we could do a little more of that outside lab time?

@@ -1,0 +1,5 @@
+latitude: -33.8264
+time: 2013-04-25T08:47:25+0000
+from: z5191885
+message: To the cute white dorky looking first year law kid Nick, I honestly think I could stare into your eyes all day long
+longitude: 151.1864

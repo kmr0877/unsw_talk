@@ -1,0 +1,10 @@
+home_latitude: -33.6143
+home_longitude: 151.3255
+friends: (z5195382, z5199953, z5194058)
+birthday: 1994-12-15
+email: z5192027@unsw.edu.au
+zid: z5192027
+program: Engineering (Honours)
+courses: (2017 S1 ENGG1000, 2017 S1 ENGG1811, 2017 S1 MATH1131, 2017 S1 PHYS1121, 2017 S2 CHEM1011, 2017 S2 CVEN1300, 2017 S2 ENGG1400, 2017 S2 MATH1231)
+password: gandalf
+full_name: Brad Johnson

@@ -1,0 +1,9 @@
+program: Information Technology
+courses: (2016 S1 COMP9021, 2016 S2 COMP9024, 2017 S2 COMP9331)
+full_name: Micah Knorr
+zid: z5191289
+birthday: 1998-12-14
+friends: (z5195309, z5192509, z5199149, z5191657, z5197017, z5190856, z5198887, z5195935, z5198579, z5198329)
+password: bond007
+email: z5191289@unsw.edu.au
+home_suburb: Kogarah Bay

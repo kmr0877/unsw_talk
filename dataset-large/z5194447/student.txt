@@ -1,0 +1,11 @@
+home_latitude: -33.8865
+home_longitude: 151.1526
+friends: (z5196672, z5196487, z5196113, z5199172, z5197286, z5199781, z5196393, z5190037, z5192961, z5190337)
+password: monkey
+home_suburb: Leichhardt
+program: Computing
+full_name: JK Rowling
+courses: (2017 S2 COMP9020, 2017 S2 COMP9021, 2017 S2 COMP9032, 2017 S2 COMP9311)
+email: z5194447@unsw.edu.au
+zid: z5194447
+birthday: 1999-03-16

@@ -1,0 +1,5 @@
+message: UNSW Love Letter can almost be renamed the Unofficial Stella Advice Hotline
+longitude: 150.8269
+time: 2015-10-16T23:35:05+0000
+from: z5195313
+latitude: -34.0090

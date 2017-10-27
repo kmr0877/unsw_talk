@@ -1,0 +1,11 @@
+friends: (z5193006, z5190301, z5199376, z5192325, z5191540, z5194407)
+email: z5192081@unsw.edu.au
+zid: z5192081
+program: Engineering (Honours)
+home_latitude: -33.9026
+home_longitude: 151.2542
+courses: (2017 S1 BIOS1301, 2017 S1 ENGG1000, 2017 S1 MATH1131, 2017 S1 PHYS1131, 2017 S2 ENGG1200, 2017 S2 ENGG1811, 2017 S2 MATH1231, 2017 S2 MMAN1300)
+full_name: Harbhajan Singh
+password: shaved
+birthday: 1995-01-29
+home_suburb: Clovelly West

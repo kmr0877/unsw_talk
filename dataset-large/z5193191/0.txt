@@ -1,0 +1,5 @@
+longitude: 151.2309
+latitude: -33.9114
+time: 2013-03-21T08:08:40+0000
+message: To my ARTS1840 tutor, I love you.
+from: z5193191

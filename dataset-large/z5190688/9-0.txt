@@ -1,0 +1,3 @@
+from: z5190037
+time: 2016-06-08T16:08:22+0000
+message: You don't choose to like someone or not.

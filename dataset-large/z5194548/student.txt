@@ -1,0 +1,11 @@
+program: Engineering (Hons) / Science
+home_suburb: University Of New South Wales
+full_name: Tommy Franks
+birthday: 1993-11-25
+friends: (z5199036, z5199623, z5198807, z5193673, z5192698, z5198160)
+zid: z5194548
+courses: (2017 S1 CHEM1031, 2017 S1 ENGG1000, 2017 S1 MATH1131, 2017 S1 PHYS1121, 2017 S2 CEIC1000, 2017 S2 CHEM1041, 2017 S2 ENGG1811, 2017 S2 MATH1231)
+home_latitude: -33.9206
+email: z5194548@unsw.edu.au
+home_longitude: 151.2228
+password: jackson

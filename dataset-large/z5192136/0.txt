@@ -1,0 +1,5 @@
+longitude: 151.2248
+latitude: -33.9118
+message: To the tall Asian girl in ARTS2690 who sits at the back with the loud table. You smell really nice, but I'm too shy to talk to you. I want to steal you for lunch.
+from: z5192136
+time: 2013-03-21T08:11:15+0000

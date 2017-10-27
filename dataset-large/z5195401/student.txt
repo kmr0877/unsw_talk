@@ -1,0 +1,11 @@
+home_suburb: Glen Alpine
+password: casper
+home_longitude: 150.7810
+courses: (2016 S2 GSOE9820, 2016 S2 MECH4880, 2016 S2 MECH9650, 2016 S2 MMAN4400, 2017 S1 GSOE9010, 2017 S1 MECH9720, 2017 S1 MECH9761, 2017 S1 MMAN4410, 2017 S2 GSOE9210, 2017 S2 GSOE9340, 2017 S2 MECH4900, 2017 S2 MMAN9001)
+email: z5195401@unsw.edu.au
+program: Professional Accounting (Ext)
+zid: z5195401
+full_name: Liza Minnelli
+home_latitude: -34.0838
+friends: (z5192509, z5195652, z5195777, z5192247, z5197302, z5195866, z5194407, z5193592)
+birthday: 1996-03-08

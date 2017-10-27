@@ -1,0 +1,11 @@
+home_latitude: -33.9548
+home_suburb: Eastgardens
+birthday: 1996-04-22
+courses: (2016 S1 COMP1917, 2016 S1 MATH1131, 2016 S1 PHYS1131, 2017 S1 MATH1131, 2017 S1 PHYS1121, 2017 S2 COMP1511, 2017 S2 MATH1231)
+zid: z5194865
+full_name: Katie Wagner
+password: angela
+email: z5194865@unsw.edu.au
+home_longitude: 151.2290
+program: Engineering(Hons)/Computer Sci
+friends: (z5199280, z5197208, z5191637)

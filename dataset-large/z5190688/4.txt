@@ -1,0 +1,5 @@
+latitude: -34.0105
+message: I'm so sick of seeing all these race specific posts. Open up your mind, people!
+longitude: 150.9058
+from: z5190688
+time: 2013-11-05T05:11:43+0000

@@ -1,0 +1,5 @@
+latitude: -33.7751
+longitude: 150.8031
+from: z5190938
+time: 2016-05-10T10:22:21+0000
+message: Dear Tanvir Islam,\nI like you but you don't know that yet.

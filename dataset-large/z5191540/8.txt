@@ -1,0 +1,5 @@
+latitude: -33.7786
+time: 2016-08-25T09:29:58+0000
+longitude: 151.2989
+message: To Michael T.\n\nI keep dropping hints but you keep getting it. Ask me out already\n\n- You know who I am
+from: z5191540

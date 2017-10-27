@@ -1,0 +1,11 @@
+friends: (z5190009, z5198307, z5195214, z5199872)
+birthday: 1995-09-07
+home_latitude: -33.8944
+full_name: Pedro Velasquez
+program: Information Technology
+zid: z5194730
+home_suburb: Eveleigh
+home_longitude: 151.1921
+password: purple
+courses: (2017 S1 COMP9020, 2017 S1 COMP9021, 2017 S1 COMP9311, 2017 S1 COMP9414, 2017 S2 COMP4418, 2017 S2 COMP9024, 2017 S2 COMP9331, 2017 S2 GSOE9820)
+email: z5194730@unsw.edu.au

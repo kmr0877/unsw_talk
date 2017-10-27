@@ -1,0 +1,11 @@
+email: z5193742@unsw.edu.au
+zid: z5193742
+home_suburb: Sylvania
+password: hello
+program: Engineering (Honours)
+home_longitude: 151.1007
+full_name: Tony Blair
+birthday: 1997-07-04
+home_latitude: -34.0101
+friends: (z5196113, z5195219, z5190867, z5193483, z5195151, z5199767, z5193868, z5192930, z5195313, z5197249, z5191310, z5199220, z5194473, z5193182, z5191710, z5191451)
+courses: (2017 S1 CHEM1011, 2017 S1 ENGG1000, 2017 S1 MATH1131, 2017 S1 PHYS1121, 2017 S2 CEIC1000, 2017 S2 CHEM1021, 2017 S2 ENGG1811, 2017 S2 MATH1231)

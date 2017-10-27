@@ -1,0 +1,11 @@
+home_longitude: 151.2949
+birthday: 1996-11-22
+home_latitude: -33.7496
+password: fred
+home_suburb: Collaroy
+email: z5193413@unsw.edu.au
+full_name: Michael Jackson
+friends: (z5195309, z5196684, z5191024, z5193859, z5192178, z5196209, z5192961, z5194473, z5198041)
+program: Engineering Science
+courses: (2016 S2 BIOM9027, 2016 S2 BIOM9410, 2016 S2 BIOM9450, 2016 S2 BIOM9650, 2017 S1 BIOM9621, 2017 S1 BIOM9640, 2017 S1 BIOM9711, 2017 S1 GSOE9010, 2017 S2 BIOM9020, 2017 S2 BIOM9420, 2017 S2 BIOM9432, 2017 S2 BIOM9561)
+zid: z5193413

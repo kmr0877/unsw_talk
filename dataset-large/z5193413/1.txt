@@ -1,0 +1,5 @@
+message: To anyone combining law with something that isn't commerce or arts\n\nyou're a beautiful, rare species, and i love you
+time: 2013-07-29T14:25:31+0000
+longitude: 150.8229
+from: z5193413
+latitude: -33.7407

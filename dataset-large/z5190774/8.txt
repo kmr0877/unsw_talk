@@ -1,0 +1,5 @@
+from: z5190774
+time: 2016-09-19T14:05:51+0000
+longitude: 151.2286
+latitude: -33.9098
+message: feels when half of your motivation to succeed in uni is to make a girl who used to like you feel regret :s

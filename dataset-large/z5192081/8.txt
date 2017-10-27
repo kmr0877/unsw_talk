@@ -1,0 +1,5 @@
+latitude: -33.9182
+time: 2016-10-02T22:57:11+0000
+message: I want to create an event where i can show my fellow Computer science students how to mingle with ladies... UNSW bsoc, UNSW management, Unsw Commerce can we create such an event?\n\nYour Sincerely\n\nA computer science student who is sincerely sorry for the amount of virginities present in my cohort
+from: z5192081
+longitude: 151.1546

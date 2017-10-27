@@ -1,0 +1,11 @@
+program: Engineering (Honours)
+email: z5193673@unsw.edu.au
+home_longitude: 151.2188
+birthday: 1995-06-13
+zid: z5193673
+friends: (z5198763, z5191504, z5194548, z5194682, z5191894, z5196864, z5195484, z5197114)
+password: trouble
+home_latitude: -33.8848
+courses: (2017 S1 COMP1511, 2017 S1 ECON1101, 2017 S1 ENGG1000, 2017 S1 MATH1141, 2017 S2 COMP1521, 2017 S2 COMP1531, 2017 S2 COMP2521, 2017 S2 MATH1081)
+full_name: Aaron Eckhart
+home_suburb: Paddington

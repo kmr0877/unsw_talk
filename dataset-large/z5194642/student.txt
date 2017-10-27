@@ -1,0 +1,11 @@
+full_name: Erika Christensen
+program: Engineering (Honours)
+email: z5194642@unsw.edu.au
+zid: z5194642
+home_longitude: 151.2747
+friends: (z5198763, z5197099)
+courses: (2017 S1 COMP1911, 2017 S1 ENGG1000, 2017 S1 MATH1131, 2017 S1 PHYS1131, 2017 S2 ELEC1111, 2017 S2 ENGG1400, 2017 S2 MATH1231, 2017 S2 MMAN1300)
+birthday: 1997-04-24
+home_suburb: Rose Bay
+password: driver
+home_latitude: -33.8745

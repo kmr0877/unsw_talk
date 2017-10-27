@@ -1,0 +1,5 @@
+longitude: 151.2268
+latitude: -33.9266
+message: To the girl with purple hair who was skateboarding through uni today\nYou had the most beautiful smile and amazing big eyes.\nYou seemed so happy and carefree\nCoffee sometime ?
+from: z5193757
+time: 2016-10-03T14:36:28+0000

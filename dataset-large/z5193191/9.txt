@@ -1,0 +1,5 @@
+from: z5193191
+time: 2016-09-17T10:37:02+0000
+message: Dear S,\nPlease sit next to me in chem\n\n-lonely girl wanting your attention
+latitude: -34.0508
+longitude: 151.0878

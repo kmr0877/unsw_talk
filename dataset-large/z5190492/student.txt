@@ -1,0 +1,11 @@
+home_latitude: -33.7238
+home_suburb: Warrawee
+password: ranger
+friends: (z5195501, z5196757, z5192132, z5193782, z5198207, z5197774, z5196528, z5191894, z5196322, z5199317)
+full_name: Sheryl Crow
+email: z5190492@unsw.edu.au
+birthday: 1998-01-20
+zid: z5190492
+home_longitude: 151.1207
+courses: (2017 S2 COMP1511, 2017 S2 MATH1081, 2017 S2 MATH1131, 2017 S2 PHYS1121)
+program: Computer Science

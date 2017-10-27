@@ -1,0 +1,10 @@
+home_latitude: -33.6450
+program: Mat Sci and Eng Hons/Commerce
+home_longitude: 151.2959
+zid: z5194560
+courses: (2017 S1 CHEM1031, 2017 S1 ENGG1811, 2017 S1 MATH1141, 2017 S1 PHYS1131, 2017 S2 BIOM1010, 2017 S2 ENGG1000, 2017 S2 MATH1231, 2017 S2 MATS1192)
+password: nascar
+birthday: 1999-04-14
+friends: (z5191504, z5195207)
+full_name: Colin Farrell
+email: z5194560@unsw.edu.au

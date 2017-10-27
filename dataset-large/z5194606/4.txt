@@ -1,0 +1,5 @@
+latitude: -34.0436
+time: 2013-06-24T12:33:56+0000
+from: z5194606
+message: To the Philippine lady named Phoebe, I like you a lot without you knowing. Too bad you're married.
+longitude: 151.1215

@@ -1,0 +1,5 @@
+latitude: -33.9136
+longitude: 151.2638
+message: To David Lu, \nTake me to science ball so we can be the cute gay couple of the night xoxo \n- A
+from: z5195734
+time: 2016-10-06T00:46:10+0000

@@ -1,0 +1,5 @@
+message: Dear Mocha, you are my one and only. ❤\n~ JVM
+latitude: -33.7385
+from: z5194642
+time: 2016-10-04T15:31:37+0000
+longitude: 151.2408

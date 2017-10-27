@@ -1,0 +1,5 @@
+message: To the cute blonde girl that gets the bus from circular Quay to uni in the morning. Keep staying cute, I might grow a pair and start talking to you
+latitude: -33.8621
+from: z5193483
+time: 2013-04-26T03:22:10+0000
+longitude: 151.1895

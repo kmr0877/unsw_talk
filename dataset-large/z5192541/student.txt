@@ -1,0 +1,11 @@
+full_name: Jeri Ryan
+home_longitude: 151.2249
+home_suburb: University Of New South Wales
+zid: z5192541
+email: z5192541@unsw.edu.au
+courses: (2016 S2 CVEN1701, 2016 S2 ENGG1000, 2016 S2 MATH1131, 2016 S2 PHYS1121, 2017 S1 CHEM1011, 2017 S1 CVEN1300, 2017 S1 CVEN2501, 2017 S1 ENGG1811, 2017 S2 CVEN2101, 2017 S2 GENM0707, 2017 S2 MATH1231)
+password: 0
+program: Engineering (Honours)
+home_latitude: -33.9190
+birthday: 1998-01-05
+friends: (z5196144, z5198763, z5199376, z5190189, z5192247, z5197302, z5194567, z5190774, z5191219, z5195569)

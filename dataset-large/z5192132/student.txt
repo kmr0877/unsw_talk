@@ -1,0 +1,11 @@
+home_suburb: Rushcutters Bay
+email: z5192132@unsw.edu.au
+home_latitude: -33.8862
+birthday: 1996-05-14
+courses: (2016 S2 COMP9020, 2016 S2 COMP9021, 2016 S2 COMP9311, 2016 S2 GSOE9820, 2017 S1 COMP9024, 2017 S1 COMP9331, 2017 S1 COMP9334, 2017 S1 COMP9414, 2017 S2 COMP6771, 2017 S2 COMP9313, 2017 S2 GSOE9220)
+password: green
+home_longitude: 151.2191
+full_name: Christian Wulff
+friends: (z5199280, z5198216, z5190995, z5190492, z5195955, z5191637, z5190618, z5190621)
+program: Information Technology
+zid: z5192132

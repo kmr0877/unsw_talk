@@ -1,0 +1,5 @@
+from: z5193868
+time: 2013-11-10T08:19:28+0000
+longitude: 151.1082
+latitude: -33.8529
+message: Mooky,\n\nGraduation has arrived, and I know I won't ever see you again. But I did love you once.

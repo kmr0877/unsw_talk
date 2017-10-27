@@ -1,0 +1,5 @@
+message: Not much seems to come from this page. Why doesn't everyone just download Happn so that you can actually talk to that attractive person that walked past you on the main walkway while you were busy getting to class.
+longitude: 151.2054
+time: 2016-05-25T12:38:21+0000
+latitude: -33.9300
+from: z5193539

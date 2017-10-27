@@ -1,0 +1,5 @@
+longitude: 151.2384
+latitude: -33.9162
+from: z5192279
+time: 2013-05-29T11:29:23+0000
+message: Dear Miss M, I have already told u how I feel yet u act as if I have told u nothing. Why do u string me along like this?

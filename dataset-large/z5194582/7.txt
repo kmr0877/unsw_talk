@@ -1,0 +1,5 @@
+time: 2016-07-02T03:28:33+0000
+message: Just realising there are no Built Environment peeps being mentioned here, ever. Notice them please. Yes, we are in labs and stuff, but we are around too
+latitude: -34.0933
+longitude: 150.8194
+from: z5194582

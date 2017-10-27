@@ -1,0 +1,11 @@
+full_name: Tiger Woods
+program: Computer Science
+zid: z5191504
+password: helpme
+home_longitude: 151.1579
+home_latitude: -33.8766
+friends: (z5199056, z5194685, z5199629, z5196164, z5198873, z5191758, z5198942, z5191637, z5195734, z5193673, z5194567, z5192930, z5194560, z5195369)
+home_suburb: Lilyfield
+courses: (2017 S1 COMP1511, 2017 S1 ECON1101, 2017 S1 MATH1081, 2017 S1 MATH1141, 2017 S2 COMP1531, 2017 S2 COMP2521, 2017 S2 ECON1102, 2017 S2 MATH1231)
+birthday: 1994-03-16
+email: z5191504@unsw.edu.au

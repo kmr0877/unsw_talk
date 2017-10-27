@@ -1,0 +1,5 @@
+message: How do I get guys to like me\n\nFrom a shy girl who doesn't talk much
+longitude: 151.2788
+latitude: -33.8851
+time: 2016-09-12T10:11:14+0000
+from: z5193859

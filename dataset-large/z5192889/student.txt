@@ -1,0 +1,11 @@
+zid: z5192889
+courses: (2017 S1 ENGG1000, 2017 S1 MATH1131, 2017 S1 MATS1192, 2017 S1 PHYS1131, 2017 S2 BIOM1010, 2017 S2 CHEM1011, 2017 S2 COMP1511, 2017 S2 MATH1231)
+home_suburb: Sydenham
+full_name: Cate Blanchett
+email: z5192889@unsw.edu.au
+home_latitude: -33.9121
+home_longitude: 151.1756
+friends: (z5192534, z5199682, z5192613, z5191024, z5193334, z5199390, z5194476, z5190938, z5198661, z5195765, z5190618, z5192740, z5199655)
+birthday: 1998-05-04
+program: Mat Sci and Eng Hons/BiomedEng
+password: harley

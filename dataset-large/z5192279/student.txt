@@ -1,0 +1,11 @@
+zid: z5192279
+email: z5192279@unsw.edu.au
+home_latitude: -33.9286
+password: rush2112
+courses: (2017 S1 ARTS1810, 2017 S1 COMP1511, 2017 S1 ENGG1000, 2017 S1 MATH1131, 2017 S2 COMP1521, 2017 S2 COMP1531, 2017 S2 COMP2521)
+full_name: Gabi Zimmer
+home_suburb: Earlwood
+friends: (z5198470, z5191222, z5197623, z5198156, z5197797, z5193988, z5196233, z5191674, z5195038, z5191238, z5193757)
+program: Engineering (Honours)
+birthday: 1995-08-27
+home_longitude: 151.1265

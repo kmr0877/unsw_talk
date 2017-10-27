@@ -1,0 +1,5 @@
+longitude: 151.2313
+latitude: -33.9236
+time: 2016-08-19T14:20:27+0000
+from: z5195318
+message: To the girl near the stairs near CLB at 11am Wednesday 17/8 who smiled at me. Made my day.

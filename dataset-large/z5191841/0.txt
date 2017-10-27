@@ -1,0 +1,5 @@
+longitude: 151.2340
+latitude: -33.9166
+time: 2013-06-13T21:05:16+0000
+message: To the cute surveyor named Tom with brown hair who always has his equipment set up on Barker street on a Friday..please feel free to survey me anytime..
+from: z5191841

@@ -1,0 +1,5 @@
+longitude: 151.1340
+message: There's this chick who looks kinda asian who I see at the Hub.. She's always so happy. I kinda love her.
+time: 2013-07-30T10:44:20+0000
+from: z5192244
+latitude: -33.8740

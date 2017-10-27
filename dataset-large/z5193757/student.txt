@@ -1,0 +1,11 @@
+program: Information Technology
+home_longitude: 151.2268
+home_latitude: -33.9266
+courses: (2017 S1 COMP9020, 2017 S1 COMP9021, 2017 S1 COMP9311, 2017 S1 MATH5960, 2017 S2 COMP9024, 2017 S2 COMP9331, 2017 S2 MATH5806, 2017 S2 MATH5855)
+zid: z5193757
+birthday: 1999-02-04
+password: badboy
+email: z5193757@unsw.edu.au
+friends: (z5194151, z5192279, z5193047, z5193801, z5193182, z5190618, z5198041)
+home_suburb: University Of New South Wales
+full_name: Scott Blum

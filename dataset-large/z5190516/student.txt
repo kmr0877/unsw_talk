@@ -1,0 +1,11 @@
+email: z5190516@unsw.edu.au
+home_latitude: -33.7785
+home_longitude: 151.1906
+zid: z5190516
+birthday: 1994-02-26
+courses: (2017 S1 COMP1511, 2017 S1 ECON1101, 2017 S1 MATH1081, 2017 S1 MATH1131, 2017 S2 ACCT1501, 2017 S2 COMP1511, 2017 S2 ECON1101, 2017 S2 MATH1131)
+full_name: Alex Penelas
+friends: (z5199754, z5192932, z5196453, z5192509, z5193782, z5196686, z5195834, z5196848, z5197499, z5197302, z5198661, z5199585, z5199193)
+home_suburb: Castle Cove
+program: Computer Science
+password: movie

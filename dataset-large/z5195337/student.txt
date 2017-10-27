@@ -1,0 +1,11 @@
+full_name: Ian Thorpe
+program: Information Technology
+friends: (z5196170, z5195802, z5192325, z5193742)
+email: z5195337@unsw.edu.au
+password: donald
+home_suburb: Randwick
+zid: z5195337
+home_latitude: -33.9177
+courses: (2017 S2 COMP9020, 2017 S2 COMP9021, 2017 S2 COMP9311, 2017 S2 GSOE9820)
+birthday: 1998-11-18
+home_longitude: 151.2447

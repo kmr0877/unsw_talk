@@ -1,0 +1,5 @@
+message: To a girl named Jane at electrical, even though you lost one, I can be your doctor forever. Distance doesn't matter. -WDoctor-
+from: z5193089
+time: 2013-04-26T03:25:29+0000
+latitude: -33.9292
+longitude: 151.2500

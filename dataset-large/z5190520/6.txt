@@ -1,0 +1,5 @@
+message: #Attn\nLooking for the cute guy that walked into the Webster theater A yesterday (Thursday) looking for the Math lecture but ended up walking into Avia1321\n\nWould love to grab coffee with you sometime 😊
+longitude: 151.2287
+from: z5190520
+latitude: -33.9147
+time: 2016-05-05T11:19:05+0000

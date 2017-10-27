@@ -1,0 +1,11 @@
+courses: (2017 S2 CHEM1011, 2017 S2 COMP1511, 2017 S2 MATH1131, 2017 S2 PHYS1121)
+email: z5191966@unsw.edu.au
+zid: z5191966
+home_suburb: Hebersham
+friends: (z5190301, z5193419, z5195265, z5195995, z5193191, z5192247, z5190126)
+home_latitude: -33.7462
+full_name: Bill Frist
+program: Engineering (Honours)
+password: golfer
+birthday: 1998-06-16
+home_longitude: 150.8171

@@ -1,0 +1,5 @@
+message: There's a lecturer in the creative department who only wears black clothes. I really want to have your children!
+time: 2013-03-23T12:02:31+0000
+latitude: -33.9505
+longitude: 151.1630
+from: z5192245

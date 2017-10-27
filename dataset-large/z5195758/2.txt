@@ -1,0 +1,5 @@
+from: z5195758
+latitude: -33.8789
+longitude: 151.2346
+message: To UNSW, where are the hot guys?
+time: 2013-08-13T06:17:38+0000

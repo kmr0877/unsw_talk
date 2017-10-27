@@ -1,0 +1,3 @@
+from: z5195318
+message: Aren't covalent bonds stronger?
+time: 2016-04-16T04:34:04+0000

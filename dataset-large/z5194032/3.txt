@@ -1,0 +1,5 @@
+latitude: -34.0540
+message: I wish I knew if you felt the same. I think about you every day. Please give me a sign.
+longitude: 151.0578
+time: 2013-05-05T06:24:48+0000
+from: z5194032

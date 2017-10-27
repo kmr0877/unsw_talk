@@ -1,0 +1,10 @@
+email: z5193959@unsw.edu.au
+program: Engineering (Hons) / Science
+friends: (z5197376, z5192731, z5195758)
+zid: z5193959
+password: booboo
+birthday: 1998-08-01
+courses: (2017 S1 ENGG1000, 2017 S1 ENGG1811, 2017 S1 MATH1141, 2017 S1 PHYS1121, 2017 S2 CVEN1300, 2017 S2 CVEN1701, 2017 S2 ENGG1400, 2017 S2 MATH1231)
+full_name: Stella Tennant
+home_latitude: -33.8852
+home_longitude: 151.2316

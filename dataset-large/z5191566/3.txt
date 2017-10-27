@@ -1,0 +1,5 @@
+time: 2016-08-08T05:07:18+0000
+message: To the girl who gave me tissues after my breakfast malfunction at Eastwood station,  thank you so very much for saving me from embarassment. If I see you again, I'll ask you out for coffee :)
+longitude: 151.2324
+latitude: -33.9122
+from: z5191566

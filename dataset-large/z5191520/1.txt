@@ -1,0 +1,5 @@
+latitude: -33.9124
+longitude: 151.2259
+time: 2013-06-10T08:40:04+0000
+message: To the sweet girl who was in my hospital group last year - I'm glad I met you.
+from: z5191520

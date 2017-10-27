@@ -1,0 +1,5 @@
+time: 2013-04-17T23:35:23+0000
+longitude: 151.2379
+message: to that sexy sexy beast zaphod... you are a beast. xoxo
+latitude: -33.9161
+from: z5193959

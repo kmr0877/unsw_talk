@@ -1,0 +1,5 @@
+from: z5193598
+latitude: -33.9520
+longitude: 151.0780
+message: Dear Tall White Finance Tutor. You're cute but very distracting. Sincerely, your student who wants the High Distinction.
+time: 2013-03-25T00:34:52+0000

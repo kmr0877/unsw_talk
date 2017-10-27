@@ -1,0 +1,11 @@
+home_longitude: 150.9966
+friends: (z5199172, z5191657, z5194139, z5197016, z5192279, z5195179, z5196393, z5198887)
+full_name: Carlos Moya
+zid: z5191238
+password: whatever
+home_suburb: Castle Hill
+email: z5191238@unsw.edu.au
+program: Commerce / Computer Science
+home_latitude: -33.7313
+birthday: 1996-06-11
+courses: (2017 S1 ACCT1501, 2017 S1 COMP1511, 2017 S1 ECON1101, 2017 S1 MGMT1001, 2017 S2 COMP2521, 2017 S2 INFS1602, 2017 S2 MARK1012, 2017 S2 MATH1131)

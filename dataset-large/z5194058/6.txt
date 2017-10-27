@@ -1,0 +1,5 @@
+latitude: -33.9860
+message: To the cute and pretty indian girl in my med lecture\nI think your name is something das gupta.\nI would love for us to go get samosas and chai someday. \nFrom\nYour secret admirer
+from: z5194058
+time: 2016-08-10T07:00:48+0000
+longitude: 151.1286

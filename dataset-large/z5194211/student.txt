@@ -1,0 +1,11 @@
+zid: z5194211
+friends: (z5194926, z5198473, z5197017, z5194582, z5199544, z5194426, z5196928, z5197361, z5199833, z5194567, z5193989, z5191710)
+program: Engineering (Honours)
+full_name: Naomi Campbell
+email: z5194211@unsw.edu.au
+password: chevy
+home_longitude: 151.2332
+courses: (2017 S1 COMP1511, 2017 S1 MATH1131, 2017 S1 MATS1101, 2017 S1 PHYS1121, 2017 S2 BIOM1010, 2017 S2 ENGG1000, 2017 S2 MATH1231, 2017 S2 MMAN1300)
+home_latitude: -33.9139
+birthday: 1998-08-10
+home_suburb: University Of New South Wales

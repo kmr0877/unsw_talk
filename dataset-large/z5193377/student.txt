@@ -1,0 +1,8 @@
+birthday: 1996-04-30
+password: computer
+friends: (z5195998, z5194069, z5194407, z5195803)
+courses: (2017 S1 MATH1081, 2017 S1 MATH1141, 2017 S1 PHYS1121, 2017 S1 SCIF1121, 2017 S2 ARTS3633, 2017 S2 COMP1511, 2017 S2 MATH1241, 2017 S2 PSYC1011)
+zid: z5193377
+program: Advanced Mathematics (Honours)
+full_name: Holly Robinson Peete
+email: z5193377@unsw.edu.au

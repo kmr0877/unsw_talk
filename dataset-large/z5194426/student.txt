@@ -1,0 +1,11 @@
+home_longitude: 151.1077
+password: birdie
+friends: (z5191674, z5195484)
+birthday: 1996-08-26
+full_name: Jamie King
+program: Information Technology
+home_suburb: Croydon Park
+home_latitude: -33.9038
+zid: z5194426
+email: z5194426@unsw.edu.au
+courses: (2017 S1 COMP8552, 2017 S1 COMP9020, 2017 S1 COMP9021, 2017 S1 COMP9311, 2017 S1 COMP9414, 2017 S2 COMP9024, 2017 S2 COMP9321, 2017 S2 COMP9331, 2017 S2 GSOE9820)

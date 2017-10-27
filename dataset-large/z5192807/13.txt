@@ -1,0 +1,5 @@
+latitude: -33.8763
+from: z5192807
+message: Looking for a first year electrical engineering bengali student who can eat a mixed hsp and a schnitzel burger in one sitting :)
+longitude: 151.1475
+time: 2016-09-21T01:04:26+0000

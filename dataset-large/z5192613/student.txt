@@ -1,0 +1,11 @@
+password: gemini
+full_name: Maha Habib
+home_suburb: Burwood
+birthday: 1994-08-11
+email: z5192613@unsw.edu.au
+zid: z5192613
+home_latitude: -33.8719
+courses: (2017 S2 COMP1511, 2017 S2 ENGG1000, 2017 S2 MATH1131, 2017 S2 PHYS1131)
+program: Engineering (Honours)
+home_longitude: 151.1062
+friends: (z5194685, z5192222, z5199797, z5198496, z5192698, z5192325, z5196775, z5197774, z5195652, z5190009, z5192889)

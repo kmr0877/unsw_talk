@@ -1,0 +1,5 @@
+time: 2016-08-05T02:41:03+0000
+longitude: 151.1251
+message: Girl are you a shimada, coz only a shimada can control this 'dragon'.
+from: z5194473
+latitude: -33.8269

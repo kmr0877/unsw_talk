@@ -1,0 +1,5 @@
+latitude: -33.9159
+from: z5190621
+longitude: 151.2224
+time: 2016-10-01T22:05:03+0000
+message: Hello \nThis is dedicated to stinky socks.\nI was doing just fine before I met you now I drink too much and it's an issue but I'm okay. Gotta eat the booty like groceries

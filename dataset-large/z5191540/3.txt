@@ -1,0 +1,5 @@
+latitude: -33.8131
+longitude: 150.9955
+from: z5191540
+message: Anooj Ghadge, I saw you near the chemistry building the other day. Our eyes locked. We should go on a date
+time: 2016-05-12T20:16:34+0000

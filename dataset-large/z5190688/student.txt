@@ -1,0 +1,11 @@
+full_name: Rich Gannon
+password: gateway
+friends: (z5191518, z5191824, z5190443, z5191222, z5197864)
+email: z5190688@unsw.edu.au
+home_longitude: 150.9058
+program: Biomedical Engineering
+home_latitude: -34.0105
+birthday: 1998-05-08
+courses: (2014 S2 BIOM9001, 2014 S2 BIOM9660, 2015 S1 BIOM9001, 2015 S1 GSOE9400, 2015 S1 GSOE9712, 2015 S2 BIOM9001, 2016 S1 BIOM9001, 2016 S2 BIOM9001, 2017 S1 BIOM9001, 2017 S2 BIOM9001)
+home_suburb: Long Point
+zid: z5190688

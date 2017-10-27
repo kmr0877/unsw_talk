@@ -1,0 +1,5 @@
+latitude: -33.9704
+time: 2016-05-11T13:03:32+0000
+longitude: 151.2374
+message: Pretty lady sitting next to the scarfed girl today in the student leader 6-7 brainstorming sesh, you are amazing.\n\nTalk about love at first sight.. 😞
+from: z5191435

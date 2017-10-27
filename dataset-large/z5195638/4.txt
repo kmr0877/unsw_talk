@@ -1,0 +1,5 @@
+message: I need a boyfriend.\nCriteria:\n- 20/20 vision\n- can open jars\n- likes tummy rubs\n- 6' or above\n- nice armpits
+longitude: 151.1825
+latitude: -33.9021
+time: 2016-06-04T14:41:04+0000
+from: z5195638

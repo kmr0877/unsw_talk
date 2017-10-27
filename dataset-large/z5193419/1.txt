@@ -1,0 +1,5 @@
+latitude: -33.8092
+longitude: 151.2054
+time: 2013-05-05T04:32:58+0000
+message: a page inspired by unsw and usyd!
+from: z5193419

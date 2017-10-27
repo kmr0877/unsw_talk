@@ -1,0 +1,11 @@
+email: z5190105@unsw.edu.au
+full_name: Carmen Electra
+birthday: 1999-03-19
+password: princess
+zid: z5190105
+home_longitude: 151.3135
+friends: (z5190046, z5199243, z5192932, z5197771, z5196487, z5192793, z5192443, z5197594, z5198430, z5194476)
+courses: (2017 S1 ENGG1000, 2017 S1 ENGG1811, 2017 S1 MATH1131, 2017 S1 PHYS1121, 2017 S2 CVEN1300, 2017 S2 ENGG1400, 2017 S2 MATH1231, 2017 S2 MATS1101)
+home_latitude: -33.6653
+program: Engineering (Honours)
+home_suburb: Newport

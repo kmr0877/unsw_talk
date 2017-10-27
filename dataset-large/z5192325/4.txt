@@ -1,0 +1,5 @@
+from: z5192325
+latitude: -33.9163
+longitude: 151.2227
+message: Kang Taeuk, I love you. Please improve your English while I study Korean. After that, let us make a family.
+time: 2013-11-13T15:44:11+0000

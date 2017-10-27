@@ -1,0 +1,5 @@
+message: To the cute guy in glasses handing out zookal flyers, I wish you would smile more.
+latitude: -33.9140
+from: z5191710
+longitude: 151.2264
+time: 2013-07-31T10:47:03+0000

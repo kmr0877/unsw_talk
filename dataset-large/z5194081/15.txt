@@ -1,0 +1,5 @@
+time: 2016-09-22T15:36:53+0000
+latitude: -33.9176
+from: z5194081
+message: Dear Andrew Vo (CSE Revue)\n\nI'm so glad you did Revue, but I'm also so glad that you're done! I miss the unicorns and happy talk of 3am conversations, that only revolved around us and no one else. Let's KFC now, and always.\n\n I love you,\n\n❤ Your girl
+longitude: 151.2371

@@ -1,0 +1,5 @@
+from: z5190375
+longitude: 150.8646
+latitude: -33.9801
+message: To Andrew from third year french,\n\nRoses are red,\nTumblr is blue,\nI see us more as a brotp,\nI hope you do too.
+time: 2013-06-26T00:31:23+0000

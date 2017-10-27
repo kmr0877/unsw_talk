@@ -1,0 +1,11 @@
+email: z5193598@unsw.edu.au
+courses: (2015 S2 COMP9902, 2016 S1 COMP9417, 2016 S1 COMP9902, 2016 S1 GSOE9400, 2016 S2 COMP9902, 2017 S1 COMP9902, 2017 S2 COMP9902)
+home_suburb: Beverly Hills
+home_latitude: -33.9520
+full_name: Mahima Chaudhari
+birthday: 1994-05-27
+program: Computer Science and Eng
+zid: z5193598
+home_longitude: 151.0780
+friends: (z5196144, z5195371, z5194682, z5194139, z5196233, z5191765, z5197376, z5192941, z5193592)
+password: redwings

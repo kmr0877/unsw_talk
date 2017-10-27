@@ -1,0 +1,5 @@
+longitude: 151.2302
+latitude: -33.9232
+from: z5195195
+message: I LOVE YOU, ANDREW!!! <3 I've always loved you! Take me back!
+time: 2013-12-05T12:39:49+0000

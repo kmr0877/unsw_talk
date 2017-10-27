@@ -1,0 +1,5 @@
+message: Girl that's in the mgmt1001 Tuesday afternoon lecture, your friends called you Darline, Darling or something similar? Why don't you be my darling?
+from: z5190856
+latitude: -34.0798
+longitude: 150.8054
+time: 2016-06-26T15:12:23+0000

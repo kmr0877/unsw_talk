@@ -1,0 +1,11 @@
+home_latitude: -33.9165
+home_longitude: 151.2293
+email: z5191491@unsw.edu.au
+home_suburb: University Of New South Wales
+courses: (2017 S1 ELEC1111, 2017 S1 ENGG1000, 2017 S1 MATH1131, 2017 S1 PHYS1131, 2017 S2 ENGG1811, 2017 S2 MATH1231, 2017 S2 MGMT1001, 2017 S2 MMAN1300)
+birthday: 1995-01-03
+program: Engineering (Hons)/Commerce
+zid: z5191491
+password: golf
+full_name: Neri Marcore
+friends: (z5196144, z5199573, z5196613, z5190012, z5198149, z5198169, z5191125, z5191734, z5195484, z5191520, z5199953, z5195108, z5195882, z5193592, z5193783)

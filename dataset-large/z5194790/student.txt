@@ -1,0 +1,10 @@
+program: Engineering (Honours)
+full_name: Joseph Biden
+zid: z5194790
+birthday: 1993-12-23
+home_longitude: 151.2059
+home_latitude: -33.9256
+courses: (2017 S1 ELEC1111, 2017 S1 ENGG1811, 2017 S1 MATH1131, 2017 S1 PHYS1121, 2017 S2 CHEM1011, 2017 S2 CVEN1300, 2017 S2 ENGG1000, 2017 S2 MATH1231)
+password: ou812
+email: z5194790@unsw.edu.au
+friends: (z5198186, z5193921, z5194151, z5191650, z5191734, z5193978, z5198260)

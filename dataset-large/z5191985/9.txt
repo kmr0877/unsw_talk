@@ -1,0 +1,5 @@
+longitude: 151.1959
+latitude: -33.9229
+from: z5191985
+message: y tf do y'all post love letters at 5am
+time: 2016-08-23T02:12:29+0000

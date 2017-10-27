@@ -1,0 +1,5 @@
+longitude: 151.2207
+message: Ty to the guy who sat in front of me for ECON1101 exam. You sat on the perfect angle with your arm just slightly letting your MC answer sheet peek out so I could sneak looks every now and then and copy your answers.
+latitude: -33.9150
+from: z5191518
+time: 2016-06-30T20:47:08+0000
