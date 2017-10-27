@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Timeline | {{ result['full_name'] }}</title>
+	<style type="text/css">
+		#profile_table{
+			width:60%;
+			height: auto;
+			border: thin solid black;
+			margin:auto;
+			text-align: center;
+		}
+		#post_table{
+			width:80%;
+			height: auto;
+			border: thin solid black;
+			margin:auto;
+		}
+		img {
+			margin: auto;
+			border: groove black thin;
+			width:auto;
+			height: 200px;
+		}
+		tr,th{
+			border: thin black solid;
+		}
+	</style>
+</head>
+<body>
+	<table id="profile_table" bgcolor='#fef7f0'>
+	<tr bgcolor="#fac897">
+		<th colspan="3" >
+			<h3>Welcome {{result['full_name']}}</h3>
+		</th>
+	</tr>
+		<tr>
+			<td rowspan="7"><img src="/{{ result['img'] }}"/></td></td>
+			<td><strong>Name : </strong></td>
+			<td>{{ result['full_name'] }}</td>
+		</tr>
+		<tr>
+			<td><strong>Home : </strong></td>
+			<td>{{ result['home_suburb'] }}</td>
+		</tr>
+		<tr>
+			<td><strong>Location : </strong></td>
+			<td>{{ result['home_latitude'] }} , {{result['home_longitude']}}</td>
+		</tr>
+		<tr>
+			<td><strong>Email Address : </strong></td>
+			<td>{{ result['email']}}</td>
+		</tr>
+		<tr>
+			<td><strong>Program : </strong></td>
+			<td>{{ result['program'] }}</td>
+		</tr>
+		<tr>
+			<td>
+				<strong>Date of birth</strong>
+			</td>
+			<td>
+				{{result['birthday']}}
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+				<a href="/friends-list/{{result['zid'].strip()}}"> <strong>Get Friends List</strong></a>
+			</td>
+
+		</tr>
+	</table>
+	<table id='post_table' bgcolor="#f0f7fe">
+		<tr bgcolor="#4a7cad">
+			<th colspan="12">
+				<strong>Your Posts</strong>
+			</th>
+		</tr>
+		{% for post in posts %}
+			<tr>
+				<th colspan="4">From : <a href = "/user/{{post['from']}}"> Visit user</a></th>
+				<th colspan="4">Time : {{post['time']}}</th>
+				<th colspan="4">Location : {{post['tatitude']}},{{post['longitude']}}</th>
+			</tr>
+			<tr>
+				<td colspan="3"><strong>Message</strong></td>
+				<td colspan="9" style="background-color: '#F8B16B">{{post['message']}}</td>
+			</tr>
+			{% for comment in post['comment'] %}
+				<tr>
+					<td colspan="3"></td>
+					<td colspan="6" bgcolor="#6bb2f8">
+						<strong>Comment : </strong>{{comment['message']}}
+					</td>
+					<td colspan="3">
+						<a href="/user/{{ comment['from'] }}">Visit student</a>
+					</td>
+				</tr>
+
+				{% for reply in comment['reply'] %}
+					<tr>
+						<td colspan="5"></td>
+					<td colspan="6" bgcolor="#d2e7fc">
+						<strong>Reply : </strong>{{reply['message']}}
+					</td>
+					<td colspan="3">
+						<a href="/user/{{ reply['from'] }}">Visit student</a>
+					</td>
+					</tr>
+				{% endfor %}
+			{% endfor %}
+			<tr>
+				<th colspan="12">No more Comments found</th>
+			</tr>
+
+		{% endfor %}
+	</table>
+</body>
+</html>
