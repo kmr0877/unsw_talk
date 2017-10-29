@@ -121,7 +121,12 @@ def show_timeline(zid):
 	else:
 		return 'User not Found'
 
-
+def validate_user(zid,password):
+	user_details = get_student_detail(zid.strip())
+	if user_details['password'] == password:
+		return True
+	else:
+		return False
 if __name__ == '__main__':
     app.secret_key = os.urandom(12)
     app.run(debug=True)
