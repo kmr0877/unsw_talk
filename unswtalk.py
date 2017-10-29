@@ -108,6 +108,20 @@ def show_profile(zid):
 		return 'Server Error - HTTP 404 - page not found'
 
 
+@app.route('/timeline/<zid>')
+def show_timeline(zid):
+	student_txt = data_folder+'/'+zid+'/Student.txt'
+	if os.path.exists(data_folder+'/'+zid) and os.path.exists(student_txt):
+		if os.path.exists(template_folder+'/'+templates['profile']):
+			student_detail =  get_student_detail(zid)
+			
+			return render_template(templates['timeline'],result = student_detail,posts = get_timeline_posts(zid))
+		else:
+			return 'Server Error - HTTP 404 - page not found'
+	else:
+		return 'User not Found'
+
+
 if __name__ == '__main__':
     app.secret_key = os.urandom(12)
     app.run(debug=True)
