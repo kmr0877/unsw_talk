@@ -127,6 +127,20 @@ def validate_user(zid,password):
 		return True
 	else:
 		return False
+	
+@app.route('/login',methods=['GET','POST'])
+def show_login_page():
+	if os.path.exists(template_folder + '/' + templates['login']):
+		if request.method == 'POST':
+			zid = request.form.get('zid')
+			if zid == None or zid == '':
+				return render_template(templates['login'])
+			elif validate_user(zid,str(request.form.get('password'))):
+				return redirect('/timeline/'+zid)
+			else:
+				return render_template(templates['login'],error = 'Not a valid user')	
+		else:
+			return render_template(templates['login'])
 if __name__ == '__main__':
     app.secret_key = os.urandom(12)
     app.run(debug=True)
