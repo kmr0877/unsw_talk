@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Profile | {{ full_name }}</title>
+	<style type="text/css">
+		table{
+			width:50%;
+			height: auto;
+			border: thin solid black;
+			margin:auto;
+			text-align: center;
+		}
+
+		img {
+			margin: auto;
+			border: groove black thin;
+			width:auto;
+			height: 200px;
+		}
+		tr,th{
+			border: thin black solid;
+		}
+	</style>
+</head>
+<body>
+	<table>
+		<tr>
+			<th colspan="2"><h3>Enter Your Credentials</h3></th>
+		</tr>
+		<form method="POST">
+			<tr>
+				<td>Your Z ID : </td>
+				<td> <input type="text" name="zid" placeholder="zXXXXX" required="required"></td>
+			</tr>
+			<tr>
+				<td>Password : </td>
+				<td> <input type="password" name="password" placeholder="my secret key" required="required"></td>
+			</tr>
+			<tr>
+				<th colspan="2"><p style="color: red">{{error}}</p></th>
+			</tr>
+			<tr>
+				<th colspan="2"> <input type="submit" value="Login" style="width:60%"></th>
+			</tr>
+		</form>
+	</table>
+</body>
+</html>
