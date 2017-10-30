@@ -9,6 +9,7 @@ import json
 data_folder = 'dataset-large'
 template_folder = 'templates'
 templates = {
+     'login' : 'login.html'	
     'profile' : 'profile.html',
     'friends_list' : 'friends_list.html',
     'timeline' : 'timeline.html'
