@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Profile | Search</title>
+	<style type="text/css">
+		table{
+			width:50%;
+			height: auto;
+			border: thin solid black;
+			margin:auto;
+			text-align: center;
+		}
+
+		img {
+			margin: auto;
+			border: groove black thin;
+			width:auto;
+			height: 200px;
+		}
+		tr,th{
+			border: thin black solid;
+		}
+	</style>
+</head>
+<body>
+	<table>
+		<tr>
+			<th colspan="2"><h3>Enter name of the student you wanna search.</h3></th>
+		</tr>
+		<tr>
+			<th colspan="2">
+			<form action="/login">
+					<input type="submit" value="Go to Login page." />
+				</form>
+			</th>
+		</tr>
+		<form method="POST">
+			<tr>
+				<td>Student name: </td>
+				<td> <input type="text" name="name" placeholder="John doe" required="required"></td>
+			</tr>
+			<tr>
+				<th colspan="2"><p style="color: red">{{error}}</p></th>
+			</tr>
+			<tr>
+				<th colspan="2"> <input type="submit" value="Search" style="width:60%"></th>
+			</tr>
+		</form>
+	</table>
+</body>
+</html>
