@@ -13,6 +13,7 @@ templates = {
     'profile' : 'profile.html',
     'friends_list' : 'friends_list.html',
     'timeline' : 'timeline.html'
+    'search-people' : 'search-people.html'
 }
 #app = Flask(__name__)
 app = Flask(__name__,
@@ -142,6 +143,34 @@ def show_login_page():
 				return render_template(templates['login'],error = 'Not a valid user')	
 		else:
 			return render_template(templates['login'])
+
+@app.route('/',methods=['GET','POST'])
+def search_people():
+	people_s = []
+	found = False
+	if os.path.exists(data_folder):
+		if request.method == 'POST':
+			full_name = request.form.get('name')
+			for student in os.listdir(data_folder):
+				details = get_student_detail(student)
+				if 'full_name' in details.keys() :
+					if full_name.lower() in details['full_name'].lower():
+						people_s.append( 
+							{
+							'zid' : details['zid'],
+							'details' : {
+									'full_name' : details['full_name'],
+									'img' : details['img']
+								}
+							}
+						)
+						found = True
+			if found:
+				return render_template(templates['search-list'],result = people_s)
+			else:
+				return render_template(templates['search-people'],error = 'User not found')
+		else:
+			return render_template(templates['search-people'])
 if __name__ == '__main__':
     app.secret_key = os.urandom(12)
     app.run(debug=True)
