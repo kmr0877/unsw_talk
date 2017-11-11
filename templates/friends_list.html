@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Friends List</title>
+	<style type="text/css">
+		table{
+			width:40%;
+			height: auto;
+			border: thin solid black;
+			margin:auto;
+			text-align: center;
+		}
+
+		img {
+			margin: auto;
+			border: groove black thin;
+			width:auto;
+			height: 200px;
+		}
+		tr,th{
+			border: thin black solid;
+		}
+	</style>
+</head>
+<body>
+	<table bgcolor='#fef7f0'>
+	<tr bgcolor="#fac897">
+		<th colspan="3">
+			<h3>Friends  List</h3>
+		</th>
+	</tr>
+
+	<tr>
+		<th colspan="3"> <input type='button' onclick="window.open('/','_self')" value="Search for a user" style="width:60%"></th>
+	</tr>
+		{% for friend in result %}
+			<tr>
+			{% for key1,value1 in friend.items() %}
+				{% if key1 == 'zid' %}
+				<td>
+					<a href='/user/{{ value1.strip() }}'>Visit Page</a>
+				</td>
+				{% endif %}
+				{% if key1 == 'details' %}
+					{% for key, value in value1.items() %}
+						{% if key == 'img' %}
+						<td><img src = "/{{ value.strip() }}" /></td>
+						{% endif %}
+						{% if key == 'full_name' %}
+						<td>{{value}}</td>
+						{% endif %}
+					 {% endfor %}
+				{% endif %}
+			{% endfor %}
+			</tr>
+		{% endfor %}
+	</table>
+</body>
+</html>
+         
